@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-InventorySystem_V1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_InventorySystemComponent.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_Item.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_StorageObject.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1Character.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1GameMode.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1HUD.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1Projectile.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1.init.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1Character.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1GameMode.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1HUD.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\InventorySystem_V1Projectile.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\IST_ItemInteractuable.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\IST_StoreObjectInteraction.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_InventorySystemComponent.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_Item.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\ST_StorageObject.gen.cpp.obj"
+"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\Default.rc2.res"
+/OUT:"C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1.lib"
+/INCLUDE:IMPLEMENT_MODULE_InventorySystem_V1

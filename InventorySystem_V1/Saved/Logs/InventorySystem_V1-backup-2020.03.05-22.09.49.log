@@ -1,0 +1,1162 @@
+﻿Log file open, 03/05/20 22:46:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystem_V1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259952
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-21.46.06:201][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-21.46.06:202][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-21.46.06:203][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-21.46.06:203][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-21.46.06:203][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-21.46.06:203][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-21.46.06:203][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:203][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:217][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-21.46.06:217][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-21.46.06:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-21.46.06:219][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-21.46.06:220][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-21.46.06:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-21.46.06:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-21.46.06:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-21.46.06:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-21.46.06:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-21.46.06:223][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-21.46.06:224][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-21.46.06:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-21.46.06:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-21.46.06:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-21.46.06:225][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-21.46.06:225][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-21.46.06:251][  0]LogHAL: Display: Platform has ~ 8 GB [8441831424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-21.46.06:251][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-21.46.06:251][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-21.46.06:252][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:252][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.03.05-21.46.06:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.03.05-21.46.06:254][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.05-21.46.06:254][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.05-21.46.06:254][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.05-21.46.06:255][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.05-21.46.06:256][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.03.05-21.46.06:256][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.03.05-21.46.06:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:257][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.05-21.46.06:257][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.05-21.46.06:257][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.03.05-21.46.06:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.05-21.46.06:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.03.05-21.46.06:258][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.05-21.46.06:258][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.03.05-21.46.06:259][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.05-21.46.06:259][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.05-21.46.06:259][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.05-21.46.06:259][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.05-21.46.06:259][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.05-21.46.06:260][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.03.05-21.46.06:260][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.05-21.46.06:260][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.05-21.46.06:260][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.03.05-21.46.06:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.03.05-21.46.06:261][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.03.05-21.46.06:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.03.05-21.46.06:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.03.05-21.46.06:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.03.05-21.46.06:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.03.05-21.46.06:263][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.05-21.46.06:263][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.03.05-21.46.06:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-21.46.06:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.03.05-21.46.06:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.05-21.46.06:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.05-21.46.06:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.05-21.46.06:265][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.03.05-21.46.06:265][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.05-21.46.06:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.03.05-21.46.06:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.03.05-21.46.06:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.05-21.46.06:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.05-21.46.06:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-21.46.06:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.03.05-21.46.06:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.05-21.46.06:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-21.46.06:268][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.03.05-21.46.06:268][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.03.05-21.46.06:268][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-21.46.06:269][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-21.46.06:269][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-21.46.06:270][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-21.46.06:270][  0]LogInit: Computer: LAPTOP-G0QMGNUT
+[2020.03.05-21.46.06:271][  0]LogInit: User: FelipeL
+[2020.03.05-21.46.06:271][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.03.05-21.46.06:271][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-21.46.06:272][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.05-21.46.06:272][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-21.46.06:272][  0]LogMemory: Process Physical Memory: 97.93 MB used, 97.93 MB peak
+[2020.03.05-21.46.06:272][  0]LogMemory: Process Virtual Memory: 92.00 MB used, 92.00 MB peak
+[2020.03.05-21.46.06:272][  0]LogMemory: Physical Memory: 4880.79 MB used,  3169.97 MB free, 8050.76 MB total
+[2020.03.05-21.46.06:272][  0]LogMemory: Virtual Memory: 4628.94 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.03.05-21.46.06:630][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.05-21.46.06:632][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.05-21.46.07:004][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-21.46.07:106][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-21.46.07:120][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-21.46.07:437][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-21.46.07:438][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-21.46.07:813][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 M360' (Feature Level 11_0)
+[2020.03.05-21.46.07:814][  0]LogD3D11RHI:       2035/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.03.05-21.46.07:842][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.03.05-21.46.07:843][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.05-21.46.07:853][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-21.46.07:854][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-21.46.07:854][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-21.46.07:950][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-21.46.07:950][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-21.46.07:951][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-21.46.07:951][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.03.05-21.46.07:952][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.05-21.46.07:953][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.05-21.46.07:954][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.05-21.46.07:954][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 M360
+[2020.03.05-21.46.07:954][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.05-21.46.07:954][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.05-21.46.07:954][  0]LogRHI: Texture pool is 1424 MB (70% of 2035 MB)
+[2020.03.05-21.46.08:086][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-21.46.08:092][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-21.46.08:093][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-21.46.08:093][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-21.46.08:104][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.03.05-21.46.08:602][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-21.46.08:627][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-21.46.08:652][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-21.46.08:679][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-21.46.08:708][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-21.46.08:738][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-21.46.08:768][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-21.46.08:798][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-21.46.08:813][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-21.46.08:958][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-21.46.08:959][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-21.46.08:965][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-21.46.09:060][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-21.46.09:060][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-21.46.09:106][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-21.46.09:107][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-21.46.09:134][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-21.46.09:161][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-21.46.09:190][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-21.46.09:218][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-21.46.09:323][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-21.46.09:374][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-21.46.09:374][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-21.46.09:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-21.46.09:638][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Intermediate/Shaders/WorkingDirectory/12224/).
+[2020.03.05-21.46.09:640][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe L/AppData/Local/Temp/UnrealShaderWorkingDir/2AF565304692BBBF362B40BC58CE7660/'.
+[2020.03.05-21.46.09:644][  0]LogXGEController: Cleaning working directory: C:/Users/Felipe L/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-21.46.09:650][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-21.46.09:651][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-21.46.09:654][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-21.46.10:530][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-21.46.10:616][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-21.46.10:616][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-21.46.10:617][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-21.46.10:617][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-21.46.10:617][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-21.46.10:617][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-21.46.10:636][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-21.46.10:636][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-21.46.10:637][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-21.46.10:651][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe L/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-21.46.10:651][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-21.46.10:651][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-21.46.10:691][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-21.46.10:693][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-21.46.10:693][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-21.46.10:813][  0]LogAssetRegistry: FAssetRegistry took 0.0466 seconds to start up
+[2020.03.05-21.46.11:377][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-21.46.11:594][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-21.46.11:594][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-21.46.11:595][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-21.46.11:595][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-21.46.11:595][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-21.46.11:625][  0]LogNetVersion: InventorySystem_V1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3935092218)
+[2020.03.05-21.46.12:296][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.094430 seconds
+[2020.03.05-21.46.12:306][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-21.46.12:306][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-21.46.12:306][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-21.46.13:711][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-21.46.13:732][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-21.46.14:424][  0]SourceControl: Source control is disabled
+[2020.03.05-21.46.14:424][  0]SourceControl: Source control is disabled
+[2020.03.05-21.46.14:440][  0]SourceControl: Source control is disabled
+[2020.03.05-21.46.14:483][  0]SourceControl: Source control is disabled
+[2020.03.05-21.46.14:802][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-21.46.15:050][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-21.46.15:973][  0]LogEngine: Initializing Engine...
+[2020.03.05-21.46.15:974][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-21.46.15:976][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-21.46.16:286][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-21.46.16:316][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-21.46.16:351][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.46.16:435][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-21.46.16:435][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-21.46.16:591][  0]LogDerivedDataCache: Saved boot cache 0.16s 74MB C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-21.46.16:608][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-21.46.16:657][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-21.46.16:696][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-21.46.16:750][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-21.46.16:972][  0]LocalizationService: Localization service is disabled
+[2020.03.05-21.46.18:032][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/' took 0.02s
+[2020.03.05-21.46.18:032][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-21.46.18:032][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-21.46.18:420][  0]SourceControl: Source control is disabled
+[2020.03.05-21.46.18:420][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-21.46.18:421][  0]LightingResults: New page: Lighting Build
+[2020.03.05-21.46.18:426][  0]MapCheck: New page: Map Check
+[2020.03.05-21.46.18:426][  0]LightingResults: New page: Lighting Build
+[2020.03.05-21.46.18:456][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.05-21.46.18:585][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-21.46.18:609][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-21.46.18:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.05-21.46.18:710][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-21.46.18:711][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2020.03.05-21.46.18:711][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.290
+[2020.03.05-21.46.18:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.46.18:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.46.18:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.46.18:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.46.18:905][  0]LogCollectionManager: Loaded 0 collections in 0.002977 seconds
+[2020.03.05-21.46.18:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Collections/' took 0.01s
+[2020.03.05-21.46.18:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/Developers/FelipeL/Collections/' took 0.00s
+[2020.03.05-21.46.18:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/Collections/' took 0.00s
+[2020.03.05-21.46.18:925][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.05-21.46.18:939][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2739 classes and 663 folders.
+[2020.03.05-21.46.18:950][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.05-21.46.18:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.18:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-21.46.19:016][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.05-21.46.19:029][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.03.05-21.46.19:051][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.03.05-21.46.19:141][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-21.46.19:150][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-21.46.19:154][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-21.46.19:222][  0]LogRenderer: Reallocating scene render targets to support 992x356 Format 9 NumSamples 1 (Frame:1).
+[2020.03.05-21.46.19:730][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-21.46.19:860][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.03.05-21.46.19:861][  0]LogLoad: (Engine Initialization) Total time: 16.32 seconds
+[2020.03.05-21.46.19:861][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-21.46.19:939][  0]LogAssetRegistry: Asset discovery search completed in 9.1505 seconds
+[2020.03.05-21.46.19:942][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.05-21.46.19:942][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000160 seconds (updated 0 objects)
+[2020.03.05-21.46.19:943][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.03.05-21.46.23:392][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.46.26:705][329]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-21.46.26:716][329]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window
+[2020.03.05-21.46.27:003][329]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.03.05-21.46.27:901][329]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.03.05-21.46.28:317][329]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-21.46.30:209][438]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-21.47.37:197][ 32]Candidate modules for hot reload:
+[2020.03.05-21.47.37:197][ 32]  InventorySystem_V1
+[2020.03.05-21.47.37:198][ 32]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,5592 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-21.47.37:201][ 32]Warning: Starting HotReload took  0.0s.
+[2020.03.05-21.48.45:928][680]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 11:48:45 PM
+[2020.03.05-21.48.45:929][680]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-21.48.45:929][680]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-21.48.45:929][680]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-21.48.45:930][680]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 20,0793108 seconds
+[2020.03.05-21.48.45:930][680]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.48.45:931][680]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.48.45:931][680]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.48.45:931][680]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.48.45:932][680]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.48.45:932][680]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.48.45:932][680]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.48.45:932][680]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.48.45:932][680]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-21.48.45:932][680]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-21.48.45:932][680]CompilerResultsLog: Building 7 actions with 4 processes...
+[2020.03.05-21.48.45:933][680]CompilerResultsLog:   [1/7] ST_Item.cpp
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:   [2/7] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:   [3/7] ST_Item.gen.cpp
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:   [4/7] ST_InventorySystemComponent.cpp
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:   [5/7] UE4Editor-InventorySystem_V1-5592.lib
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5592.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5592.exp
+[2020.03.05-21.48.45:934][680]CompilerResultsLog:   [6/7] UE4Editor-InventorySystem_V1-5592.dll
+[2020.03.05-21.48.45:936][680]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5592.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5592.suppressed.exp
+[2020.03.05-21.48.45:937][680]CompilerResultsLog:   [7/7] InventorySystem_V1Editor.target
+[2020.03.05-21.48.45:937][680]CompilerResultsLog: Total time in Parallel executor: 38,22 seconds
+[2020.03.05-21.48.45:937][680]CompilerResultsLog: Total execution time: 68,48 seconds
+[2020.03.05-21.48.45:938][680]LogMainFrame: MainFrame: Module compiling took 68.745 seconds
+[2020.03.05-21.48.46:068][680]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2020.03.05-21.48.46:070][680]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-21.48.46:170][680]LogClass: ESpecificType HotReload.
+[2020.03.05-21.48.46:170][680]LogClass: EPickableType HotReload.
+[2020.03.05-21.48.46:170][680]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-21.48.46:171][680]LogClass: ItemProperties HotReload.
+[2020.03.05-21.48.46:171][680]LogClass: ItemDescription HotReload.
+[2020.03.05-21.48.46:184][680]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-21.48.46:185][680]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0009 seconds. Added 7 classes and 4 folders.
+[2020.03.05-21.48.46:191][680]Display: HotReload successful (6 functions remapped  3 scriptstructs remapped)
+[2020.03.05-21.48.46:385][680]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.03.05-21.48.46:387][680]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-21.48.46:405][680]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-21.48.46:470][680]Display: HotReload took 69.3s.
+[2020.03.05-21.48.52:265][967]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window
+[2020.03.05-21.49.23:829][858]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window0B10BFF94A70210ED8398588B4B9816B.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-21.49.26:995][ 30]Candidate modules for hot reload:
+[2020.03.05-21.49.26:996][ 30]  InventorySystem_V1
+[2020.03.05-21.49.26:996][ 30]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,9819 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-21.49.26:999][ 30]Warning: Starting HotReload took  0.0s.
+[2020.03.05-21.51.27:889][775]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 11:51:27 PM
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-21.51.27:890][775]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 72,5620024 seconds
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.51.27:890][775]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.51.27:890][775]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.51.27:891][775]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.51.27:891][775]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.51.27:891][775]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.51.27:891][775]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.51.27:891][775]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-21.51.27:891][775]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-21.51.27:891][775]CompilerResultsLog: Building 7 actions with 4 processes...
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [1/7] ST_Item.cpp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [2/7] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [3/7] ST_Item.gen.cpp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [4/7] ST_InventorySystemComponent.cpp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [5/7] UE4Editor-InventorySystem_V1-9819.lib
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-9819.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-9819.exp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [6/7] UE4Editor-InventorySystem_V1-9819.dll
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-9819.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-9819.suppressed.exp
+[2020.03.05-21.51.27:892][775]CompilerResultsLog:   [7/7] InventorySystem_V1Editor.target
+[2020.03.05-21.51.27:892][775]CompilerResultsLog: Total time in Parallel executor: 31,00 seconds
+[2020.03.05-21.51.27:893][775]CompilerResultsLog: Total execution time: 120,65 seconds
+[2020.03.05-21.51.27:893][775]LogMainFrame: MainFrame: Module compiling took 120.900 seconds
+[2020.03.05-21.51.28:016][775]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2020.03.05-21.51.28:019][775]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-21.51.28:516][775]LogClass: ESpecificType HotReload.
+[2020.03.05-21.51.28:516][775]LogClass: EPickableType HotReload.
+[2020.03.05-21.51.28:516][775]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-21.51.28:516][775]LogClass: ItemProperties HotReload.
+[2020.03.05-21.51.28:516][775]LogClass: ItemDescription HotReload.
+[2020.03.05-21.51.28:533][775]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-21.51.28:534][775]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0009 seconds. Added 7 classes and 4 folders.
+[2020.03.05-21.51.28:540][775]Display: HotReload successful (6 functions remapped  3 scriptstructs remapped)
+[2020.03.05-21.51.28:754][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.03.05-21.51.28:756][775]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-21.51.28:768][775]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-21.51.28:778][775]Display: HotReload took 121.8s.
+[2020.03.05-21.51.46:443][684]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window
+[2020.03.05-21.51.50:200][857]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-21.51.50:336][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.03.05-21.52.34:602][369]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-21.52.34:715][369]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.03.05-21.52.37:140][500]Candidate modules for hot reload:
+[2020.03.05-21.52.37:141][500]  InventorySystem_V1
+[2020.03.05-21.52.37:141][500]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,744 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-21.52.37:143][500]Warning: Starting HotReload took  0.1s.
+[2020.03.05-21.55.11:701][833]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 11:55:11 PM
+[2020.03.05-21.55.11:703][833]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-21.55.11:703][833]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-21.55.11:703][833]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-21.55.11:703][833]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 78,4551303 seconds
+[2020.03.05-21.55.11:703][833]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.55.11:703][833]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.55.11:703][833]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.55.11:705][833]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.55.11:707][833]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.55.11:708][833]CompilerResultsLog: Attempting to retry...
+[2020.03.05-21.55.11:708][833]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-21.55.11:708][833]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-21.55.11:708][833]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-21.55.11:708][833]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-21.55.11:709][833]CompilerResultsLog: Building 7 actions with 4 processes...
+[2020.03.05-21.55.11:709][833]CompilerResultsLog:   [1/7] ST_Item.cpp
+[2020.03.05-21.55.11:709][833]CompilerResultsLog:   [2/7] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-21.55.11:710][833]CompilerResultsLog:   [3/7] ST_Item.gen.cpp
+[2020.03.05-21.55.11:710][833]CompilerResultsLog:   [4/7] ST_InventorySystemComponent.cpp
+[2020.03.05-21.55.11:710][833]CompilerResultsLog:   [5/7] UE4Editor-InventorySystem_V1-0744.lib
+[2020.03.05-21.55.11:710][833]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0744.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0744.exp
+[2020.03.05-21.55.11:711][833]CompilerResultsLog:   [6/7] UE4Editor-InventorySystem_V1-0744.dll
+[2020.03.05-21.55.11:711][833]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0744.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0744.suppressed.exp
+[2020.03.05-21.55.11:711][833]CompilerResultsLog:   [7/7] InventorySystem_V1Editor.target
+[2020.03.05-21.55.11:711][833]CompilerResultsLog: Total time in Parallel executor: 35,05 seconds
+[2020.03.05-21.55.11:711][833]CompilerResultsLog: Total execution time: 153,67 seconds
+[2020.03.05-21.55.11:711][833]LogMainFrame: MainFrame: Module compiling took 154.574 seconds
+[2020.03.05-21.55.11:772][833]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.03.05-21.55.11:776][833]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-21.55.11:799][833]LogContentBrowser: Native class hierarchy populated in 0.0228 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-21.55.11:817][833]Display: HotReload took 154.8s.
+[2020.03.05-21.55.21:440][323]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-21.55.21:566][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.03.05-21.55.22:625][367]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_WindowF9B01ED34E6F204CFF573299F2E1B420.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-21.55.26:745][609]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-21.55.26:821][609]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.03.05-21.55.27:771][658]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window31918DF9428FCDE9C29B18B971BB8D5F.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-21.55.30:551][822]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-21.55.30:663][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.55.30:678][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-21.55.30:679][822]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2020, 11:55:30 PM)
+[2020.03.05-21.55.30:799][822]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-21.55.31:221][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.421752s)
+[2020.03.05-21.55.31:235][822]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-21.55.31:247][822]LogPlayLevel: PIE: World Init took: (0.025482s)
+[2020.03.05-21.55.31:247][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.448296s)
+[2020.03.05-21.55.31:296][822]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.05-21.55.31:365][822]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.55.31:389][822]LogInit: FAudioDevice initialized.
+[2020.03.05-21.55.31:910][822]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-21.55.31:978][822]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-22.55.31
+[2020.03.05-21.55.32:245][822]LogWorld: Bringing up level for play took: 0.321009
+[2020.03.05-21.55.32:707][822]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.05-21.55.32:977][822]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.05-21.55.32:978][822]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.03.05-21.55.33:218][822]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 2.837
+[2020.03.05-21.55.33:218][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.55.36:188][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:214][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:215][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:215][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:256][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:256][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:256][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:257][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:258][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:258][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:258][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:258][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:260][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:260][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:260][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:260][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:261][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:261][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:262][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:262][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:263][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:263][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:263][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:264][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:265][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:265][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:265][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:265][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:266][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:267][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:267][938]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.36:267][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:268][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_0
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.36:268][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:269][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:270][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:270][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:271][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:271][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:272][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:273][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:274][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:274][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:275][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:275][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:276][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:276][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:277][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:277][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:278][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:279][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:280][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:280][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:281][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:281][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:282][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:282][938]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.36:285][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.55.39:020][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:020][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:021][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:022][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:023][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:023][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:023][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:024][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:025][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:025][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:025][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:025][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:027][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:027][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:027][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:027][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:028][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:029][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:029][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:029][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:030][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:031][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:031][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:031][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:032][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:032][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:033][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:033][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:034][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:034][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:035][ 98]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.39:036][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:038][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_1
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.39:038][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:038][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:041][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:041][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:042][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:042][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:044][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:044][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:045][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:046][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:047][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:047][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:048][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:049][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:050][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:050][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:051][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:052][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:052][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:053][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:054][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:054][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:055][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:056][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.39:058][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.55.42:851][323]LogBlueprintUserMessages: [MyFirstItem_2] Element take but not stock
+[2020.03.05-21.55.44:222][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:222][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:222][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:222][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:223][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:224][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:224][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:224][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:225][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:226][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:226][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:226][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:227][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:227][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:227][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:227][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:228][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:229][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:229][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:229][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:230][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:230][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:230][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:231][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:232][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:232][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:232][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:232][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:233][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:233][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:234][402]LogScript: Warning: Accessed None reading structure imageToShowInTheInventory
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0126
+[2020.03.05-21.55.44:234][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:235][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue
+	Inventory_Window_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Inventory_Window_C_2
+	Function /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window_C:ExecuteUbergraph_Inventory_Window:0111
+[2020.03.05-21.55.44:235][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:235][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:237][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:237][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:238][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:238][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:239][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:239][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:240][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:240][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:241][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:242][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:243][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:243][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:244][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:244][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:245][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:245][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:247][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:247][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:248][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:248][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:249][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetItemByIndex_ReturnValue". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:249][402]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.03.05-21.55.44:252][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.55.47:106][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.55.47:107][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.55.47:192][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-21.55.47:193][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.55.47:404][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.55.47:540][572]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.03.05-21.55.47:740][573]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.05-21.55.59:129][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.56.42:362][803]LogSlate: Took 0.058709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.05-21.57.49:821][788]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-21.57.49:912][788]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.03.05-21.57.50:654][819]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window713423494C71B8514DF579856503811A.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-21.57.53:681][988]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window2999BFC54508F03AB49C9A848838173D.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-21.57.58:838][252]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-21.57.58:879][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.57.58:879][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-21.57.58:880][252]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2020, 11:57:58 PM)
+[2020.03.05-21.57.58:880][252]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-21.57.58:907][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026591s)
+[2020.03.05-21.57.58:908][252]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-21.57.58:909][252]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2020.03.05-21.57.58:909][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028913s)
+[2020.03.05-21.57.58:958][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.03.05-21.57.58:971][252]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.57.58:993][252]LogInit: FAudioDevice initialized.
+[2020.03.05-21.57.59:059][252]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-21.57.59:063][252]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-22.57.59
+[2020.03.05-21.57.59:064][252]LogWorld: Bringing up level for play took: 0.004707
+[2020.03.05-21.57.59:081][252]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.7
+[2020.03.05-21.57.59:081][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.01:926][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.01:926][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.01:962][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-21.58.01:963][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.02:015][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.02:022][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.05-21.58.02:082][416]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.05-21.58.02:877][458]LogEditorViewport: Clicking on Actor (LMB): MyFirstItem_C (MyFirstItem)
+[2020.03.05-21.58.04:419][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.58.04:518][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-21.58.12:278][881]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-21.58.12:614][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.03.05-21.58.13:752][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-21.58.13:859][934]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItem3E915E434DAB14FBDE287E8B98805EB3.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-21.58.16:487][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-21.58.16:528][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.16:528][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-21.58.16:528][ 70]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2020, 11:58:16 PM)
+[2020.03.05-21.58.16:528][ 70]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-21.58.16:549][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020702s)
+[2020.03.05-21.58.16:550][ 70]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-21.58.16:551][ 70]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2020.03.05-21.58.16:551][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022616s)
+[2020.03.05-21.58.16:625][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.03.05-21.58.16:639][ 70]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.58.16:661][ 70]LogInit: FAudioDevice initialized.
+[2020.03.05-21.58.16:694][ 70]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-21.58.16:698][ 70]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-22.58.16
+[2020.03.05-21.58.16:699][ 70]LogWorld: Bringing up level for play took: 0.003338
+[2020.03.05-21.58.16:714][ 70]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.333
+[2020.03.05-21.58.16:714][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.19:511][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.58.20:669][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.20:669][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.20:712][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-21.58.20:712][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.20:765][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.20:771][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.03.05-21.58.20:799][300]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.05-21.58.21:948][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.58.22:068][370]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-21.58.22:104][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.22:105][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-21.58.22:105][370]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2020, 11:58:22 PM)
+[2020.03.05-21.58.22:105][370]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-21.58.22:127][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021617s)
+[2020.03.05-21.58.22:128][370]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-21.58.22:139][370]LogPlayLevel: PIE: World Init took: (0.011608s)
+[2020.03.05-21.58.22:139][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034280s)
+[2020.03.05-21.58.22:185][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.05-21.58.22:197][370]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.58.22:216][370]LogInit: FAudioDevice initialized.
+[2020.03.05-21.58.22:253][370]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-21.58.22:257][370]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-22.58.22
+[2020.03.05-21.58.22:258][370]LogWorld: Bringing up level for play took: 0.003445
+[2020.03.05-21.58.22:273][370]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.109
+[2020.03.05-21.58.22:273][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.26:483][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.58.27:923][701]LogBlueprintUserMessages: [MyFirstItem_2] Element in stock
+[2020.03.05-21.58.28:674][746]PIE: Error: Blueprint Runtime Error: "Attempted to access MyFirstItem_2 via property CallFunc_GetItemByIndex_ReturnValue, but MyFirstItem_2 is pending kill". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set ImageToAdd
+[2020.03.05-21.58.28:675][746]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set ImageToAdd
+[2020.03.05-21.58.28:689][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.58.38:503][335]PIE: Error: Blueprint Runtime Error: "Attempted to access MyFirstItem_2 via property CallFunc_GetItemByIndex_ReturnValue, but MyFirstItem_2 is pending kill". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set ImageToAdd
+[2020.03.05-21.58.38:504][335]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure imageToShowInTheInventory". Blueprint:  Inventory_Window Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set ImageToAdd
+[2020.03.05-21.58.38:514][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-21.58.40:104][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.40:105][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.40:143][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-21.58.40:143][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-21.58.40:198][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.58.40:205][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.03.05-21.58.40:245][432]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.05-21.58.57:109][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.59.36:127][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.05-21.59.36:482][401]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_Auto137BA96D4463814B1984246B0AA37E9AD.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.03.05-21.59.36:538][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.464
+[2020.03.05-21.59.36:538][401]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.464
+[2020.03.05-22.09.11:340][407]Candidate modules for hot reload:
+[2020.03.05-22.09.11:340][407]  InventorySystem_V1
+[2020.03.05-22.09.11:340][407]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,6077 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-22.09.11:343][407]Warning: Starting HotReload took  0.0s.
+[2020.03.05-22.09.42:200][473]CompilerResultsLog: New page: Compilation - Mar 6, 2020, 12:09:42 AM
+[2020.03.05-22.09.42:204][473]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-22.09.42:205][473]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 9,2445141 seconds
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-22.09.42:205][473]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Attempting to retry...
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-22.09.42:205][473]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-22.09.42:205][473]CompilerResultsLog: Attempting to retry...
+[2020.03.05-22.09.42:206][473]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-22.09.42:206][473]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-22.09.42:206][473]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-22.09.42:206][473]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-22.09.42:207][473]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.03.05-22.09.42:207][473]CompilerResultsLog:   [1/4] ST_InventorySystemComponent.cpp
+[2020.03.05-22.09.42:207][473]CompilerResultsLog:   [2/4] UE4Editor-InventorySystem_V1-6077.lib
+[2020.03.05-22.09.42:208][473]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-6077.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-6077.exp
+[2020.03.05-22.09.42:209][473]CompilerResultsLog:   [3/4] UE4Editor-InventorySystem_V1-6077.dll
+[2020.03.05-22.09.42:210][473]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-6077.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-6077.suppressed.exp
+[2020.03.05-22.09.42:210][473]CompilerResultsLog:   [4/4] InventorySystem_V1Editor.target
+[2020.03.05-22.09.42:210][473]CompilerResultsLog: Total time in Parallel executor: 14,01 seconds
+[2020.03.05-22.09.42:210][473]CompilerResultsLog: Total execution time: 30,63 seconds
+[2020.03.05-22.09.42:211][473]LogMainFrame: MainFrame: Module compiling took 30.873 seconds
+[2020.03.05-22.09.42:293][473]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.03.05-22.09.42:297][473]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-22.09.45:701][473]LogClass: ESpecificType HotReload.
+[2020.03.05-22.09.45:701][473]LogClass: EPickableType HotReload.
+[2020.03.05-22.09.45:702][473]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-22.09.45:702][473]LogClass: ItemProperties HotReload.
+[2020.03.05-22.09.45:702][473]LogClass: ItemDescription HotReload.
+[2020.03.05-22.09.45:714][473]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-22.09.45:714][473]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0006 seconds. Added 7 classes and 4 folders.
+[2020.03.05-22.09.45:721][473]Display: HotReload successful (6 functions remapped  3 scriptstructs remapped)
+[2020.03.05-22.09.45:892][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.03.05-22.09.45:894][473]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-22.09.45:905][473]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-22.09.45:913][473]Display: HotReload took 34.6s.
+[2020.03.05-22.09.49:033][611]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-22.09.49:153][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-22.09.49:153][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-22.09.49:153][611]PIE: New page: PIE session: FirstPersonExampleMap (Mar 6, 2020, 12:09:49 AM)
+[2020.03.05-22.09.49:153][611]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-22.09.49:173][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019570s)
+[2020.03.05-22.09.49:174][611]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-22.09.49:175][611]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2020.03.05-22.09.49:175][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021850s)
+[2020.03.05-22.09.49:245][611]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.03.05-22.09.49:257][611]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-22.09.49:402][611]LogInit: FAudioDevice initialized.
+[2020.03.05-22.09.49:436][611]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-22.09.49:441][611]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-23.09.49
+[2020.03.05-22.09.49:442][611]LogWorld: Bringing up level for play took: 0.004717
+[2020.03.05-22.09.49:459][611]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.078
+[2020.03.05-22.09.49:459][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'

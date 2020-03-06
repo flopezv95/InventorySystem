@@ -1,0 +1,1061 @@
+﻿Log file open, 03/05/20 18:37:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystem_V1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.553261
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-17.37.51:562][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-17.37.51:562][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-17.37.51:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-17.37.51:563][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-17.37.51:564][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-17.37.51:565][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-17.37.51:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:565][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:577][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-17.37.51:578][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-17.37.51:578][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-17.37.51:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-17.37.51:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-17.37.51:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-17.37.51:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-17.37.51:582][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-17.37.51:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-17.37.51:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-17.37.51:585][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-17.37.51:586][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:586][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-17.37.51:586][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-17.37.51:586][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-17.37.51:586][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-17.37.51:674][  0]LogHAL: Display: Platform has ~ 8 GB [8441831424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-17.37.51:674][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-17.37.51:675][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-17.37.51:678][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:678][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.05-17.37.51:678][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.05-17.37.51:678][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:678][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.05-17.37.51:678][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:679][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.03.05-17.37.51:679][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.03.05-17.37.51:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.05-17.37.51:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.03.05-17.37.51:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.03.05-17.37.51:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.03.05-17.37.51:682][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.03.05-17.37.51:682][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.03.05-17.37.51:682][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.05-17.37.51:682][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.05-17.37.51:684][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.05-17.37.51:684][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.05-17.37.51:685][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.03.05-17.37.51:685][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.03.05-17.37.51:686][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:686][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.05-17.37.51:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.05-17.37.51:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.03.05-17.37.51:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.05-17.37.51:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.03.05-17.37.51:689][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.05-17.37.51:690][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.03.05-17.37.51:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.05-17.37.51:692][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.05-17.37.51:692][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.05-17.37.51:693][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.05-17.37.51:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.05-17.37.51:694][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.03.05-17.37.51:694][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.05-17.37.51:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.05-17.37.51:695][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.03.05-17.37.51:696][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.03.05-17.37.51:697][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:697][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.03.05-17.37.51:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.03.05-17.37.51:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.03.05-17.37.51:699][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.03.05-17.37.51:699][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.03.05-17.37.51:700][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.05-17.37.51:700][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.03.05-17.37.51:701][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-17.37.51:702][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:702][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.03.05-17.37.51:703][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.05-17.37.51:703][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.05-17.37.51:704][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.05-17.37.51:704][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.03.05-17.37.51:705][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.05-17.37.51:705][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.03.05-17.37.51:706][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.03.05-17.37.51:707][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.05-17.37.51:707][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.05-17.37.51:708][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-17.37.51:708][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.03.05-17.37.51:709][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.05-17.37.51:709][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-17.37.51:710][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.03.05-17.37.51:710][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.03.05-17.37.51:711][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-17.37.51:712][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-17.37.51:713][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-17.37.51:713][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Config/Windows/Engine.ini]
+[2020.03.05-17.37.51:714][  0]LogInit: Computer: LAPTOP-G0QMGNUT
+[2020.03.05-17.37.51:715][  0]LogInit: User: FelipeL
+[2020.03.05-17.37.51:715][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.03.05-17.37.51:716][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-17.37.51:717][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.05-17.37.51:717][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-17.37.51:718][  0]LogMemory: Process Physical Memory: 97.28 MB used, 97.28 MB peak
+[2020.03.05-17.37.51:718][  0]LogMemory: Process Virtual Memory: 91.65 MB used, 91.65 MB peak
+[2020.03.05-17.37.51:719][  0]LogMemory: Physical Memory: 5368.96 MB used,  2681.79 MB free, 8050.76 MB total
+[2020.03.05-17.37.51:720][  0]LogMemory: Virtual Memory: 4628.94 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.03.05-17.37.55:511][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.05-17.37.55:513][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.05-17.37.58:610][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-17.37.59:416][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-17.37.59:420][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-17.38.06:813][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-17.38.06:813][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-17.38.07:966][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 M360' (Feature Level 11_0)
+[2020.03.05-17.38.07:966][  0]LogD3D11RHI:       2035/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.03.05-17.38.08:070][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.03.05-17.38.08:070][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.05-17.38.08:550][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-17.38.08:550][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-17.38.08:550][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-17.38.08:628][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-17.38.08:628][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-17.38.08:628][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-17.38.08:628][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.03.05-17.38.08:629][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.05-17.38.08:629][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.05-17.38.08:630][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.05-17.38.08:630][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 M360
+[2020.03.05-17.38.08:630][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.05-17.38.08:630][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.05-17.38.08:630][  0]LogRHI: Texture pool is 1424 MB (70% of 2035 MB)
+[2020.03.05-17.38.08:802][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-17.38.08:807][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-17.38.08:809][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-17.38.08:809][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-17.38.08:818][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.03.05-17.38.09:550][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-17.38.09:606][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-17.38.09:669][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-17.38.09:739][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-17.38.10:088][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-17.38.10:182][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-17.38.10:277][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-17.38.10:419][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-17.38.10:456][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-17.38.10:645][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-17.38.10:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-17.38.10:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-17.38.10:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-17.38.10:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-17.38.10:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-17.38.10:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-17.38.10:648][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-17.38.10:780][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-17.38.11:127][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-17.38.11:127][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-17.38.11:216][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-17.38.11:216][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-17.38.11:324][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-17.38.11:378][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-17.38.11:466][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-17.38.11:597][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-17.38.11:738][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-17.38.11:738][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-17.38.11:738][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-17.38.12:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-17.38.13:490][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Intermediate/Shaders/WorkingDirectory/6140/).
+[2020.03.05-17.38.13:491][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe L/AppData/Local/Temp/UnrealShaderWorkingDir/4BA00187462B01CE9A7E618958BC414E/'.
+[2020.03.05-17.38.13:548][  0]LogXGEController: Cleaning working directory: C:/Users/Felipe L/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-17.38.13:548][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-17.38.13:548][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-17.38.13:549][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-17.38.18:305][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-17.38.18:393][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-17.38.18:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-17.38.18:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-17.38.18:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-17.38.18:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-17.38.18:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-17.38.18:410][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-17.38.18:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-17.38.18:410][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-17.38.18:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe L/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-17.38.18:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-17.38.18:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-17.38.18:457][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-17.38.18:459][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-17.38.18:695][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-17.38.18:931][  0]LogAssetRegistry: FAssetRegistry took 0.0384 seconds to start up
+[2020.03.05-17.38.19:493][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-17.38.20:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-17.38.20:987][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-17.38.20:987][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-17.38.20:987][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-17.38.20:987][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-17.38.21:004][  0]LogNetVersion: InventorySystem_V1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3935092218)
+[2020.03.05-17.38.24:930][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 3.177503 seconds
+[2020.03.05-17.38.24:939][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-17.38.24:939][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-17.38.24:939][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-17.38.30:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-17.38.31:188][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-17.38.34:332][  0]SourceControl: Source control is disabled
+[2020.03.05-17.38.34:332][  0]SourceControl: Source control is disabled
+[2020.03.05-17.38.34:718][  0]SourceControl: Source control is disabled
+[2020.03.05-17.38.34:798][  0]SourceControl: Source control is disabled
+[2020.03.05-17.38.39:431][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-17.38.41:742][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-17.38.44:036][  0]LogEngine: Initializing Engine...
+[2020.03.05-17.38.44:037][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-17.38.44:039][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-17.38.44:355][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-17.38.45:054][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-17.38.45:101][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-17.38.45:747][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-17.38.45:748][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-17.38.46:495][  0]LogDerivedDataCache: Saved boot cache 0.75s 74MB C:/Users/Felipe L/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-17.38.46:509][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-17.38.47:263][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-17.38.47:924][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-17.38.49:686][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-17.38.53:577][  0]LocalizationService: Localization service is disabled
+[2020.03.05-17.39.01:284][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/' took 0.02s
+[2020.03.05-17.39.01:284][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-17.39.01:284][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-17.39.08:213][  0]SourceControl: Source control is disabled
+[2020.03.05-17.39.08:213][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-17.39.08:214][  0]LightingResults: New page: Lighting Build
+[2020.03.05-17.39.08:336][  0]MapCheck: New page: Map Check
+[2020.03.05-17.39.08:337][  0]LightingResults: New page: Lighting Build
+[2020.03.05-17.39.08:373][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.05-17.39.09:390][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-17.39.09:403][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-17.39.09:525][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.05-17.39.09:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-17.39.09:526][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2020.03.05-17.39.09:526][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.313
+[2020.03.05-17.39.09:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.09:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.09:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.09:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.10:116][  0]LogCollectionManager: Loaded 0 collections in 0.002428 seconds
+[2020.03.05-17.39.10:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Collections/' took 0.01s
+[2020.03.05-17.39.10:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/Developers/FelipeL/Collections/' took 0.00s
+[2020.03.05-17.39.10:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/Collections/' took 0.00s
+[2020.03.05-17.39.10:289][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-17.39.10:304][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2739 classes and 663 folders.
+[2020.03.05-17.39.10:433][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.05-17.39.10:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.10:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.11:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.12:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.13:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-17.39.18:208][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.05-17.39.18:300][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.03.05-17.39.19:037][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.03.05-17.39.19:207][  0]LogSlate: Took 0.061318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-17.39.19:293][  0]LogSlate: Took 0.080998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-17.39.19:465][  0]LogSlate: Took 0.169132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-17.39.19:537][  0]LogRenderer: Reallocating scene render targets to support 992x356 Format 9 NumSamples 1 (Frame:1).
+[2020.03.05-17.39.20:257][  0]LogSlate: Took 0.169014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-17.39.20:592][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.05-17.39.20:593][  0]LogLoad: (Engine Initialization) Total time: 109.69 seconds
+[2020.03.05-17.39.20:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-17.39.20:818][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.03.05-17.39.47:757][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-17.39.47:845][478]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-17.39.47:873][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-17.39.47:873][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-17.39.47:874][478]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2020, 7:39:47 PM)
+[2020.03.05-17.39.47:889][478]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.05-17.39.47:914][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024600s)
+[2020.03.05-17.39.47:915][478]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.05-17.39.47:916][478]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2020.03.05-17.39.47:916][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027630s)
+[2020.03.05-17.39.47:952][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.05-17.39.47:966][478]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-17.39.47:994][478]LogInit: FAudioDevice initialized.
+[2020.03.05-17.39.48:046][478]LogLoad: Game class is 'Inventory_C'
+[2020.03.05-17.39.48:050][478]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.05-18.39.48
+[2020.03.05-17.39.48:051][478]LogWorld: Bringing up level for play took: 0.003423
+[2020.03.05-17.39.48:219][478]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.03.05-17.39.48:221][478]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.647
+[2020.03.05-17.39.48:221][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-17.39.50:837][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-17.39.52:381][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-17.39.52:382][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.52:416][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-17.39.52:417][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.05-17.39.52:445][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.39.52:450][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.05-17.39.52:530][718]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.05-17.39.56:073][928]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.05-17.41.17:057][682]LogAssetRegistry: Asset discovery search completed in 178.1511 seconds
+[2020.03.05-17.41.17:075][682]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.03.05-17.41.22:851][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-17.41.33:845][397]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-17.41.33:874][397]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-17.41.35:329][397]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 121 classes and 0 folders.
+[2020.03.05-17.41.38:623][397]LogSlate: Took 0.026745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-17.41.39:017][398]LogSlate: Took 0.020918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-17.43.17:282][ 83]Candidate modules for hot reload:
+[2020.03.05-17.43.17:283][ 83]  InventorySystem_V1
+[2020.03.05-17.43.17:329][ 83]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,9973 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-17.43.17:331][ 83]Warning: Starting HotReload took  0.8s.
+[2020.03.05-17.46.53:305][ 30]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-17.47.05:905][629]LogSlate: Took 0.030469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.05-17.47.16:644][238]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-17.47.17:433][238]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.03.05-17.47.46:698][727]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.05-17.47.54:858][ 50]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-17.47.55:094][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.03.05-17.48.20:069][197]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.05-17.48.48:294][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-17.48.50:348][890]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-17.48.50:605][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.03.05-17.48.51:722][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-17.48.53:414][913]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItem762F505340478239357487A291839F0D.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-17.49.26:963][426]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.03.05-17.49.27:574][426]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_Auto1A538767B4FA52E380E5C09A4B6083E1E.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.03.05-17.49.27:809][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.922
+[2020.03.05-17.49.27:809][426]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.922
+[2020.03.05-18.00.48:023][232]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:00:48 PM
+[2020.03.05-18.00.48:033][232]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-18.00.48:033][232]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.00.48:033][232]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.00.48:033][232]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 140,1555425 seconds
+[2020.03.05-18.00.48:034][232]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.00.48:034][232]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.00.48:034][232]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.00.48:034][232]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.00.48:034][232]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.00.48:034][232]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.00.48:035][232]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.00.48:035][232]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.00.48:035][232]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.00.48:035][232]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.00.48:035][232]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-18.00.48:060][232]LogMainFrame: MainFrame: Module compiling took 1049.519 seconds
+[2020.03.05-18.00.48:060][232]Warning: HotReload failed, recompile failed
+[2020.03.05-18.14.56:628][907]Candidate modules for hot reload:
+[2020.03.05-18.14.56:628][907]  InventorySystem_V1
+[2020.03.05-18.14.56:628][907]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,2866 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.14.56:654][907]Warning: Starting HotReload took  0.4s.
+[2020.03.05-18.17.28:948][  7]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:17:28 PM
+[2020.03.05-18.17.28:949][  7]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-18.17.28:949][  7]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.17.28:949][  7]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.17.28:949][  7]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 21,8152461 seconds
+[2020.03.05-18.17.28:949][  7]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.17.28:950][  7]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.17.28:950][  7]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.17.28:950][  7]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.17.28:950][  7]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.17.28:951][  7]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.17.28:951][  7]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.17.28:951][  7]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.17.28:951][  7]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.17.28:952][  7]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.17.28:952][  7]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-18.17.28:952][  7]CompilerResultsLog:   [1/8] InventorySystem_V1.init.gen.cpp
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:   [2/8] ST_Item.cpp
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:   [3/8] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:   [4/8] ST_Item.gen.cpp
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:   [5/8] ST_InventorySystemComponent.cpp
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:   [6/8] UE4Editor-InventorySystem_V1-2866.lib
+[2020.03.05-18.17.28:953][  7]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-2866.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-2866.exp
+[2020.03.05-18.17.28:954][  7]CompilerResultsLog:   [7/8] UE4Editor-InventorySystem_V1-2866.dll
+[2020.03.05-18.17.28:954][  7]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-2866.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-2866.suppressed.exp
+[2020.03.05-18.17.28:954][  7]CompilerResultsLog:   [8/8] InventorySystem_V1Editor.target
+[2020.03.05-18.17.28:954][  7]CompilerResultsLog: Total time in Parallel executor: 117,28 seconds
+[2020.03.05-18.17.28:954][  7]CompilerResultsLog: Total execution time: 150,98 seconds
+[2020.03.05-18.17.28:954][  7]LogMainFrame: MainFrame: Module compiling took 152.331 seconds
+[2020.03.05-18.17.29:019][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.03.05-18.17.29:019][  7]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-18.17.30:036][  7]LogClass: Could not find existing class ST_Item in package /Script/InventorySystem_V1 for HotReload, assuming new class
+[2020.03.05-18.17.30:036][  7]LogClass: Function Interact is new.
+[2020.03.05-18.17.30:036][  7]LogClass: ESpecificType HotReload.
+[2020.03.05-18.17.30:036][  7]LogClass: EPickableType HotReload.
+[2020.03.05-18.17.30:037][  7]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-18.17.30:037][  7]LogClass: ItemProperties HotReload.
+[2020.03.05-18.17.30:037][  7]LogClass: ItemDescription HotReload.
+[2020.03.05-18.17.30:061][  7]LogHotReload: Re-instancing ST_Item after hot-reload.
+[2020.03.05-18.17.30:428][  7]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-18.17.30:429][  7]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0011 seconds. Added 7 classes and 4 folders.
+[2020.03.05-18.17.30:434][  7]Display: HotReload successful (5 functions remapped  3 scriptstructs remapped)
+[2020.03.05-18.17.30:600][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.03.05-18.17.30:600][  7]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-18.17.30:617][  7]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-18.17.30:695][  7]Display: HotReload took 154.5s.
+[2020.03.05-18.17.35:296][171]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-18.17.56:561][367]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MySecondItem.MySecondItem
+[2020.03.05-18.18.00:350][526]LogSlate: Window 'MySecondItem' being destroyed
+[2020.03.05-18.18.00:437][526]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MySecondItem.MySecondItem
+[2020.03.05-18.19.03:763][ 93]LogSlate: Window 'MySecondItem' being destroyed
+[2020.03.05-18.19.05:778][193]Candidate modules for hot reload:
+[2020.03.05-18.19.05:778][193]  InventorySystem_V1
+[2020.03.05-18.19.05:779][193]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,4637 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.19.05:782][193]Warning: Starting HotReload took  0.0s.
+[2020.03.05-18.22.07:981][  4]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:22:07 PM
+[2020.03.05-18.22.07:999][  4]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-18.22.07:999][  4]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.22.08:000][  4]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.22.08:003][  4]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 18,177556 seconds
+[2020.03.05-18.22.08:003][  4]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.22.08:006][  4]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.22.08:006][  4]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.22.08:009][  4]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.22.08:010][  4]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.22.08:010][  4]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.22.08:010][  4]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.22.08:010][  4]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.22.08:010][  4]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.22.08:011][  4]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.22.08:011][  4]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-18.22.08:012][  4]CompilerResultsLog:   [1/8] InventorySystem_V1.init.gen.cpp
+[2020.03.05-18.22.08:013][  4]CompilerResultsLog:   [2/8] ST_InventorySystemComponent.cpp
+[2020.03.05-18.22.08:013][  4]CompilerResultsLog:   [3/8] ST_Item.cpp
+[2020.03.05-18.22.08:013][  4]CompilerResultsLog:   [4/8] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-18.22.08:015][  4]CompilerResultsLog:   [5/8] ST_Item.gen.cpp
+[2020.03.05-18.22.08:015][  4]CompilerResultsLog:   [6/8] UE4Editor-InventorySystem_V1-4637.lib
+[2020.03.05-18.22.08:015][  4]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-4637.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-4637.exp
+[2020.03.05-18.22.08:016][  4]CompilerResultsLog:   [7/8] UE4Editor-InventorySystem_V1-4637.dll
+[2020.03.05-18.22.08:016][  4]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-4637.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-4637.suppressed.exp
+[2020.03.05-18.22.08:016][  4]CompilerResultsLog: Error:   ST_Item.gen.cpp.obj : error LNK2019: s?mbolo externo "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UImage_NoRegister(void)" (__imp_?Z_Construct_UClass_UImage_NoRegister@@YAPEAVUClass@@XZ) sin resolver al que se hace referencia en la funci?n "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FObjectPropertyParams const Z_Construct_UClass_AST_Item_Statics::NewProp_imageToShowInTheInventory''(void)" (??__E?NewProp_imageToShowInTheInventory@Z_Construct_UClass_AST_Item_Statics@@2UFObjectPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.03.05-18.22.08:017][  4]CompilerResultsLog: Error:   C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1-4637.dll : fatal error LNK1120: 1 externos sin resolver
+[2020.03.05-18.22.08:017][  4]LogMainFrame: MainFrame: Module compiling took 182.241 seconds
+[2020.03.05-18.22.08:017][  4]Warning: HotReload failed, recompile failed
+[2020.03.05-18.24.14:021][  5]Candidate modules for hot reload:
+[2020.03.05-18.24.14:022][  5]  InventorySystem_V1
+[2020.03.05-18.24.14:023][  5]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,7220 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.24.14:026][  5]Warning: Starting HotReload took  0.0s.
+[2020.03.05-18.25.02:447][897]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:25:02 PM
+[2020.03.05-18.25.02:448][897]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.25.02:448][897]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.25.02:448][897]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 18,7137645 seconds
+[2020.03.05-18.25.02:449][897]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.25.02:449][897]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.25.02:451][897]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.25.02:452][897]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.25.02:452][897]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.25.02:453][897]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.25.02:454][897]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.25.02:456][897]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.25.02:457][897]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.25.02:457][897]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.25.02:458][897]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-18.25.02:458][897]CompilerResultsLog:   [1/8] InventorySystem_V1.init.gen.cpp
+[2020.03.05-18.25.02:458][897]CompilerResultsLog:   [2/8] ST_Item.cpp
+[2020.03.05-18.25.02:459][897]CompilerResultsLog:   [3/8] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-18.25.02:459][897]CompilerResultsLog:   [4/8] ST_Item.gen.cpp
+[2020.03.05-18.25.02:459][897]CompilerResultsLog:   [5/8] ST_InventorySystemComponent.cpp
+[2020.03.05-18.25.02:459][897]CompilerResultsLog:   [6/8] UE4Editor-InventorySystem_V1-7220.lib
+[2020.03.05-18.25.02:459][897]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-7220.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-7220.exp
+[2020.03.05-18.25.02:460][897]CompilerResultsLog:   [7/8] UE4Editor-InventorySystem_V1-7220.dll
+[2020.03.05-18.25.02:460][897]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-7220.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-7220.suppressed.exp
+[2020.03.05-18.25.02:460][897]CompilerResultsLog: Error:   ST_Item.gen.cpp.obj : error LNK2019: s?mbolo externo "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UImage_NoRegister(void)" (__imp_?Z_Construct_UClass_UImage_NoRegister@@YAPEAVUClass@@XZ) sin resolver al que se hace referencia en la funci?n "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FObjectPropertyParams const Z_Construct_UScriptStruct_FItemProperties_Statics::NewProp_imageToShowInTheInventory''(void)" (??__E?NewProp_imageToShowInTheInventory@Z_Construct_UScriptStruct_FItemProperties_Statics@@2UFObjectPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.03.05-18.25.02:460][897]CompilerResultsLog: Error:   C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1-7220.dll : fatal error LNK1120: 1 externos sin resolver
+[2020.03.05-18.25.02:460][897]LogMainFrame: MainFrame: Module compiling took 48.442 seconds
+[2020.03.05-18.25.02:460][897]Warning: HotReload failed, recompile failed
+[2020.03.05-18.28.12:542][500]Candidate modules for hot reload:
+[2020.03.05-18.28.12:543][500]  InventorySystem_V1
+[2020.03.05-18.28.12:545][500]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,9962 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.28.12:548][500]Warning: Starting HotReload took  0.0s.
+[2020.03.05-18.31.01:199][ 32]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:31:01 PM
+[2020.03.05-18.31.01:199][ 32]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.31.01:199][ 32]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.31.01:199][ 32]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 17,6061321 seconds
+[2020.03.05-18.31.01:199][ 32]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.31.01:200][ 32]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.31.01:201][ 32]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.31.01:201][ 32]CompilerResultsLog: Building 7 actions with 4 processes...
+[2020.03.05-18.31.01:202][ 32]CompilerResultsLog:   [1/7] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-18.31.01:202][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\inventorysystem\../Item/ST_Item.h(61) : error C2065: 'ConstructObject': identificador no declarado
+[2020.03.05-18.31.01:202][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\inventorysystem\../Item/ST_Item.h(61) : error C2275: 'UImage': uso no v?lido de este tipo como expresi?n
+[2020.03.05-18.31.01:202][ 32]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Image.h(30): note: vea la declaraci?n de 'UImage'
+[2020.03.05-18.31.01:203][ 32]CompilerResultsLog:   [2/7] ST_InventorySystemComponent.cpp
+[2020.03.05-18.31.01:203][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\inventorysystem\../Item/ST_Item.h(61) : error C2065: 'ConstructObject': identificador no declarado
+[2020.03.05-18.31.01:203][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\inventorysystem\../Item/ST_Item.h(61) : error C2275: 'UImage': uso no v?lido de este tipo como expresi?n
+[2020.03.05-18.31.01:204][ 32]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Image.h(30): note: vea la declaraci?n de 'UImage'
+[2020.03.05-18.31.01:204][ 32]CompilerResultsLog:   [3/7] ST_Item.cpp
+[2020.03.05-18.31.01:204][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\item\ST_Item.h(61) : error C2065: 'ConstructObject': identificador no declarado
+[2020.03.05-18.31.01:204][ 32]CompilerResultsLog:    c:\users\felipe l\desktop\games\tankgame\inventorysystem_v1\source\inventorysystem_v1\item\ST_Item.h(61) : error C2275: 'UImage': uso no v?lido de este tipo como expresi?n
+[2020.03.05-18.31.01:205][ 32]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Image.h(30): note: vea la declaraci?n de 'UImage'
+[2020.03.05-18.31.01:205][ 32]CompilerResultsLog:   [4/7] ST_Item.gen.cpp
+[2020.03.05-18.31.01:205][ 32]CompilerResultsLog:    C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Source\InventorySystem_V1/Item/ST_Item.h(61) : error C2065: 'ConstructObject': identificador no declarado
+[2020.03.05-18.31.01:205][ 32]CompilerResultsLog:    C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Source\InventorySystem_V1/Item/ST_Item.h(61) : error C2275: 'UImage': uso no v?lido de este tipo como expresi?n
+[2020.03.05-18.31.01:205][ 32]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Image.h(30): note: vea la declaraci?n de 'UImage'
+[2020.03.05-18.31.01:205][ 32]LogMainFrame: MainFrame: Module compiling took 168.665 seconds
+[2020.03.05-18.31.01:206][ 32]Warning: HotReload failed, recompile failed
+[2020.03.05-18.34.29:982][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/InventorySystem_BP.InventorySystem_BP
+[2020.03.05-18.34.46:482][432]LogSlate: Window 'InventorySystem_BP' being destroyed
+[2020.03.05-18.34.50:718][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-18.37.13:559][793]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2020.03.05-18.37.14:716][793]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_Auto2650E5E5444598BBBBEC8C2822FFF70E9.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.03.05-18.37.14:785][793]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 1.411
+[2020.03.05-18.37.14:785][793]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.411
+[2020.03.05-18.37.14:792][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InventorySystem/MyFirstItem] ([1] browsable assets)...
+[2020.03.05-18.37.14:818][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem]
+[2020.03.05-18.37.14:818][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/MyFirstItem]
+[2020.03.05-18.37.15:291][793]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItem_Auto2A7B8738544CF713A68DEF69669771813.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/InventorySystem/MyFirstItem_Auto2.uasset'
+[2020.03.05-18.37.15:326][793]LogFileHelpers: Auto-saving content packages took 0.535
+[2020.03.05-18.39.17:314][660]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-18.39.17:646][660]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.03.05-18.39.18:320][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-18.39.18:359][686]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItem53D978EF4C4CCB01EB835C995104E44E.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-18.40.50:302][715]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-18.40.50:706][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.03.05-18.41.05:630][200]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window
+[2020.03.05-18.41.11:618][200]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.03.05-18.41.17:646][372]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot
+[2020.03.05-18.41.54:100][443]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.41.54:343][443]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.03.05-18.43.57:432][874]AssetReimport: New page: Outstanding source content changes 8:43:57 PM
+[2020.03.05-18.43.57:478][875]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/ImageInventory/1.jpg)
+[2020.03.05-18.43.57:964][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ImageInventory/1" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/ImageInventory/1.uasset" SILENT=true
+[2020.03.05-18.43.58:142][876]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/12C78CBED438FD77A3E876F90506F802E.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/ImageInventory/1.uasset'
+[2020.03.05-18.44.01:160][ 22]AssetReimport: Importing new asset /Game/ImageInventory/1.
+[2020.03.05-18.44.37:739][981]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2020.03.05-18.44.38:110][981]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMapD088975A4A743E35D0B5DEBD9B587E59.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.03.05-18.44.42:375][981]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_BuiltDataC976DAC54338924F91B22AA6887566F9.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.05-18.46.43:396][ 21]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.46.43:461][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.03.05-18.48.09:376][ 89]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.48.09:455][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.03.05-18.49.14:646][887]Candidate modules for hot reload:
+[2020.03.05-18.49.14:646][887]  InventorySystem_V1
+[2020.03.05-18.49.14:647][887]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,1971 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.49.14:961][887]Warning: Starting HotReload took  0.8s.
+[2020.03.05-18.49.22:784][107]LogSlate: Window 'Delete Variable' being destroyed
+[2020.03.05-18.50.07:346][718]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.50.07:446][718]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.03.05-18.50.23:178][495]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window
+[2020.03.05-18.50.41:312][502]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.50.41:392][502]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.03.05-18.50.41:990][529]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Slot5BCA5DE142E4C55C76E81D9AF75E46A2.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Slot.uasset'
+[2020.03.05-18.50.47:176][827]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.50.47:176][827]LogBlueprint: Warning: [Compiler Inventory_Slot] [4394.76] Compile of Inventory_Slot failed. 1 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.50.47:211][827]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.50.47:212][827]LogBlueprint: Warning: [Compiler Inventory_Slot] [4394.80] Compile of Inventory_Slot failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.51.06:937][971]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.06:937][971]LogBlueprint: Warning: [Compiler Inventory_Slot] [4414.52] Compile of Inventory_Slot failed. 1 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.51.09:752][133]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.51.09:753][133]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.09:768][133]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.09:842][133]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2020.03.05-18.51.09:866][133]LogBlueprint: Warning: [Compiler Inventory_Slot] [4417.45] Compile of Inventory_Slot failed. 2 Fatal Issue(s) 0 Warning(s) [in 114 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.51.31:490][409]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.31:491][409]LogBlueprint: Warning: [Compiler Inventory_Slot] [4439.08] Compile of Inventory_Slot failed. 1 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.51.33:283][515]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.51.33:284][515]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope SKEL_Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.33:289][515]LogBlueprint: Error: [Compiler Inventory_Slot] Internal Compiler Error: Tried to create a property ItemImage in scope Inventory_Slot_C, but another object (ObjectProperty ItemImage) already exists there.
+[2020.03.05-18.51.33:346][515]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.05-18.51.33:369][515]LogBlueprint: Warning: [Compiler Inventory_Slot] [4440.95] Compile of Inventory_Slot failed. 2 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Slot.Inventory_Slot)
+[2020.03.05-18.51.45:996][269]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.51.46:069][269]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.05-18.51.54:456][769]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-18.51.54:602][769]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.54:603][769]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.54:603][769]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image In  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.54:671][769]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.03.05-18.51.54:682][769]LogBlueprint: Warning: [Compiler Inventory_Window] [4462.27] Compile of Inventory_Window successful, but with 3 Warning(s) [in 224 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window)
+[2020.03.05-18.51.55:671][826]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-18.51.55:682][826]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.55:682][826]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.55:683][826]LogBlueprint: Warning: [Compiler Inventory_Window] Input pin  Item Image In  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2020.03.05-18.51.55:753][826]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.03.05-18.51.55:764][826]LogBlueprint: Warning: [Compiler Inventory_Window] [4463.35] Compile of Inventory_Window successful, but with 3 Warning(s) [in 92 ms] (/Game/InventorySystem/InventorySystem_HUD/Inventory_Window.Inventory_Window)
+[2020.03.05-18.52.14:899][865]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-18.52.14:965][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.03.05-18.52.15:476][889]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Slot415D9AAC49879F238C681BBD6C57236B.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Slot.uasset'
+[2020.03.05-18.52.17:921][ 29]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-18.52.17:993][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2020.03.05-18.52.31:418][745]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window67F6591F45F231EAC6B1AFBCB76EE08A.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-18.52.33:419][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-18.52.33:754][841]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItemDA64E86D4EA727DDA8BC14921F76DEE3.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-18.54.44:032][366]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 8:54:44 PM
+[2020.03.05-18.54.44:032][366]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-18.54.44:032][366]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-18.54.44:032][366]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-18.54.44:033][366]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 94,1371626 seconds
+[2020.03.05-18.54.44:033][366]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.54.44:033][366]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.54.44:033][366]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.54.44:033][366]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.54.44:033][366]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.54.44:033][366]CompilerResultsLog: Attempting to retry...
+[2020.03.05-18.54.44:034][366]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-18.54.44:034][366]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-18.54.44:034][366]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-18.54.44:034][366]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-18.54.44:034][366]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-18.54.44:034][366]LogMainFrame: MainFrame: Module compiling took 329.391 seconds
+[2020.03.05-18.54.44:034][366]Warning: HotReload failed, recompile failed
+[2020.03.05-18.54.48:711][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.03.05-18.54.48:712][456]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.065
+[2020.03.05-18.54.49:250][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ImageInventory/1_Sprite] ([1] browsable assets)...
+[2020.03.05-18.54.49:272][456]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ImageInventory/1_Sprite.1_Sprite]
+[2020.03.05-18.54.49:272][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/ImageInventory/1_Sprite]
+[2020.03.05-18.54.49:445][456]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/1_Sprite_Auto3EC720834477FE13693E3F5BE836DC981.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/ImageInventory/1_Sprite_Auto3.uasset'
+[2020.03.05-18.54.49:448][456]LogFileHelpers: Auto-saving content packages took 0.734
+[2020.03.05-18.55.12:499][671]Candidate modules for hot reload:
+[2020.03.05-18.55.12:499][671]  InventorySystem_V1
+[2020.03.05-18.55.12:500][671]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,325 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-18.55.12:504][671]Warning: Starting HotReload took  0.0s.
+[2020.03.05-19.00.23:932][224]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 9:00:23 PM
+[2020.03.05-19.00.23:932][224]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-19.00.23:932][224]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-19.00.23:932][224]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-19.00.23:933][224]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 21,8504589 seconds
+[2020.03.05-19.00.23:933][224]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.00.23:933][224]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.00.23:933][224]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.00.23:933][224]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.00.23:934][224]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.00.23:934][224]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.00.23:935][224]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.00.23:936][224]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.00.23:937][224]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-19.00.23:937][224]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-19.00.23:937][224]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-19.00.23:937][224]CompilerResultsLog:   [1/8] InventorySystem_V1.init.gen.cpp
+[2020.03.05-19.00.23:937][224]CompilerResultsLog:   [2/8] ST_Item.cpp
+[2020.03.05-19.00.23:938][224]CompilerResultsLog:   [3/8] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-19.00.23:938][224]CompilerResultsLog:   [4/8] ST_Item.gen.cpp
+[2020.03.05-19.00.23:938][224]CompilerResultsLog:   [5/8] ST_InventorySystemComponent.cpp
+[2020.03.05-19.00.23:938][224]CompilerResultsLog:   [6/8] UE4Editor-InventorySystem_V1-0325.lib
+[2020.03.05-19.00.23:939][224]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0325.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0325.exp
+[2020.03.05-19.00.23:939][224]CompilerResultsLog:   [7/8] UE4Editor-InventorySystem_V1-0325.dll
+[2020.03.05-19.00.23:939][224]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0325.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-0325.suppressed.exp
+[2020.03.05-19.00.23:939][224]CompilerResultsLog:   [8/8] InventorySystem_V1Editor.target
+[2020.03.05-19.00.23:939][224]CompilerResultsLog: Total time in Parallel executor: 277,42 seconds
+[2020.03.05-19.00.23:939][224]CompilerResultsLog: Total execution time: 310,57 seconds
+[2020.03.05-19.00.23:940][224]LogMainFrame: MainFrame: Module compiling took 311.445 seconds
+[2020.03.05-19.00.24:021][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.03.05-19.00.24:025][224]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-19.00.24:046][224]LogContentBrowser: Native class hierarchy populated in 0.0208 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-19.00.24:058][224]Display: HotReload took 311.6s.
+[2020.03.05-19.01.38:813][574]BlueprintLog: New page: Compile Inventory_Slot
+[2020.03.05-19.01.38:913][574]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2020.03.05-19.01.39:679][611]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Slot3F0D24604FC25324A7B014A3DE566869.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Slot.uasset'
+[2020.03.05-19.01.57:211][657]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-19.01.57:530][657]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2020.03.05-19.01.58:320][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-19.01.58:399][698]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItemBC59592E4ED0AD3974870E8851FF77ED.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-19.04.49:839][548]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.03.05-19.04.50:419][548]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_Auto4171F367E41450A9E8FEBEBAC4AD7C56F.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.03.05-19.04.50:604][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.830
+[2020.03.05-19.04.50:604][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.830
+[2020.03.05-19.05.44:367][857]Candidate modules for hot reload:
+[2020.03.05-19.05.44:367][857]  InventorySystem_V1
+[2020.03.05-19.05.44:368][857]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,3245 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-19.05.44:370][857]Warning: Starting HotReload took  0.0s.
+[2020.03.05-19.08.44:311][195]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MySecondItem.MySecondItem
+[2020.03.05-19.08.50:183][332]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 9:08:50 PM
+[2020.03.05-19.08.50:185][332]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-19.08.50:186][332]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-19.08.50:188][332]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-19.08.50:188][332]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 18,5762184 seconds
+[2020.03.05-19.08.50:188][332]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.08.50:188][332]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.08.50:189][332]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.08.50:189][332]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.08.50:189][332]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.08.50:189][332]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.08.50:190][332]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.08.50:190][332]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.08.50:190][332]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-19.08.50:190][332]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-19.08.50:190][332]CompilerResultsLog: Building 7 actions with 4 processes...
+[2020.03.05-19.08.50:190][332]CompilerResultsLog:   [1/7] ST_Item.cpp
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:   [2/7] ST_InventorySystemComponent.cpp
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:   [3/7] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:   [4/7] ST_Item.gen.cpp
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:   [5/7] UE4Editor-InventorySystem_V1-3245.lib
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-3245.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-3245.exp
+[2020.03.05-19.08.50:191][332]CompilerResultsLog:   [6/7] UE4Editor-InventorySystem_V1-3245.dll
+[2020.03.05-19.08.50:192][332]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-3245.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-3245.suppressed.exp
+[2020.03.05-19.08.50:192][332]CompilerResultsLog:   [7/7] InventorySystem_V1Editor.target
+[2020.03.05-19.08.50:192][332]CompilerResultsLog: Total time in Parallel executor: 157,06 seconds
+[2020.03.05-19.08.50:192][332]CompilerResultsLog: Total execution time: 185,55 seconds
+[2020.03.05-19.08.50:192][332]LogMainFrame: MainFrame: Module compiling took 185.828 seconds
+[2020.03.05-19.08.51:367][332]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2020.03.05-19.08.51:370][332]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-19.08.59:967][332]LogClass: Could not find existing class ST_Item in package /Script/InventorySystem_V1 for HotReload, assuming new class
+[2020.03.05-19.08.59:968][332]LogClass: Function Interact is new.
+[2020.03.05-19.09.00:063][332]LogClass: ESpecificType HotReload.
+[2020.03.05-19.09.00:063][332]LogClass: EPickableType HotReload.
+[2020.03.05-19.09.00:063][332]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-19.09.00:230][332]LogClass: ItemDescription HotReload.
+[2020.03.05-19.09.00:400][332]LogHotReload: Re-instancing ST_Item after hot-reload.
+[2020.03.05-19.09.00:426][332]LogClass: Warning: Property itemProperties of itemProperties has a struct type mismatch (tag HOTRELOADED_ItemProperties_0 != prop ItemProperties) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.05-19.09.00:664][332]LogClass: Warning: Property itemProperties of itemProperties has a struct type mismatch (tag HOTRELOADED_ItemProperties_0 != prop ItemProperties) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.05-19.09.01:210][332]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-19.09.01:211][332]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0010 seconds. Added 7 classes and 4 folders.
+[2020.03.05-19.09.01:219][332]Display: HotReload successful (5 functions remapped  3 scriptstructs remapped)
+[2020.03.05-19.09.02:226][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.03.05-19.09.02:228][332]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-19.09.02:406][332]LogContentBrowser: Native class hierarchy populated in 0.1787 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-19.09.02:417][332]Display: HotReload took 198.1s.
+[2020.03.05-19.09.06:407][464]LogSlate: Window 'MySecondItem' being destroyed
+[2020.03.05-19.09.08:320][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InventorySystem/MyFirstItem.MyFirstItem
+[2020.03.05-19.09.13:540][690]BlueprintLog: New page: Compile MyFirstItem
+[2020.03.05-19.09.14:083][690]LogUObjectHash: Compacting FUObjectHashTables data took  51.59ms
+[2020.03.05-19.09.17:426][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/MyFirstItem" FILE="../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset" SILENT=true
+[2020.03.05-19.09.17:535][870]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/MyFirstItem7544EC7446148AB462736BBF9BCE7C50.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/MyFirstItem.uasset'
+[2020.03.05-19.10.45:760][478]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-19.10.45:897][478]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.03.05-19.10.47:892][593]Candidate modules for hot reload:
+[2020.03.05-19.10.47:892][593]  InventorySystem_V1
+[2020.03.05-19.10.47:892][593]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=InventorySystem_V1,5886 Win64 Development -TargetType=Editor -Project="C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject" "C:/Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/InventorySystem_V1.uproject"  -IgnoreJunk]
+[2020.03.05-19.10.47:894][593]Warning: Starting HotReload took  0.0s.
+[2020.03.05-19.11.29:732][505]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 9:11:29 PM
+[2020.03.05-19.11.29:733][505]CompilerResultsLog: Creating makefile for InventorySystem_V1Editor (ini files are newer than makefile)
+[2020.03.05-19.11.29:734][505]CompilerResultsLog: Parsing headers for InventorySystem_V1Editor
+[2020.03.05-19.11.29:734][505]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\InventorySystem_V1.uproject" "C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\InventorySystem_V1Editor\Development\InventorySystem_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-19.11.29:734][505]CompilerResultsLog: Reflection code generated for InventorySystem_V1Editor in 18,2233833 seconds
+[2020.03.05-19.11.29:736][505]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.11.29:736][505]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.11.29:739][505]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.11.29:741][505]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.11.29:742][505]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.11.29:742][505]CompilerResultsLog: Attempting to retry...
+[2020.03.05-19.11.29:743][505]CompilerResultsLog: Failed to delete file 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'
+[2020.03.05-19.11.29:743][505]CompilerResultsLog:     Exception: Acceso denegado a la ruta de acceso 'C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Binaries\Win64\UE4Editor-InventorySystem_V1.pdb'.
+[2020.03.05-19.11.29:744][505]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.03.05-19.11.29:744][505]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-19.11.29:744][505]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.03.05-19.11.29:745][505]CompilerResultsLog:   [1/8] ST_Item.cpp
+[2020.03.05-19.11.29:745][505]CompilerResultsLog:   [2/8] ST_Item.gen.cpp
+[2020.03.05-19.11.29:746][505]CompilerResultsLog:   [3/8] ST_InventorySystemComponent.gen.cpp
+[2020.03.05-19.11.29:747][505]CompilerResultsLog:   [4/8] InventorySystem_V1.init.gen.cpp
+[2020.03.05-19.11.29:747][505]CompilerResultsLog:   [5/8] ST_InventorySystemComponent.cpp
+[2020.03.05-19.11.29:747][505]CompilerResultsLog:   [6/8] UE4Editor-InventorySystem_V1-5886.lib
+[2020.03.05-19.11.29:748][505]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5886.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5886.exp
+[2020.03.05-19.11.29:748][505]CompilerResultsLog:   [7/8] UE4Editor-InventorySystem_V1-5886.dll
+[2020.03.05-19.11.29:748][505]CompilerResultsLog:      Creando biblioteca C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5886.suppressed.lib y objeto C:\Users\Felipe L\Desktop\Games\TankGame\InventorySystem_V1\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem_V1\UE4Editor-InventorySystem_V1-5886.suppressed.exp
+[2020.03.05-19.11.29:748][505]CompilerResultsLog:   [8/8] InventorySystem_V1Editor.target
+[2020.03.05-19.11.29:748][505]CompilerResultsLog: Total time in Parallel executor: 13,55 seconds
+[2020.03.05-19.11.29:749][505]CompilerResultsLog: Total execution time: 41,65 seconds
+[2020.03.05-19.11.29:749][505]LogMainFrame: MainFrame: Module compiling took 41.861 seconds
+[2020.03.05-19.11.29:821][505]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.03.05-19.11.29:823][505]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (unloaded)
+[2020.03.05-19.11.30:300][505]LogClass: Could not find existing class ST_Item in package /Script/InventorySystem_V1 for HotReload, assuming new class
+[2020.03.05-19.11.30:300][505]LogClass: Function Interact is new.
+[2020.03.05-19.11.30:301][505]LogClass: ESpecificType HotReload.
+[2020.03.05-19.11.30:301][505]LogClass: EPickableType HotReload.
+[2020.03.05-19.11.30:301][505]LogClass: ItemInTheInventory HotReload.
+[2020.03.05-19.11.30:301][505]LogClass: ItemProperties HotReload.
+[2020.03.05-19.11.30:301][505]LogClass: ItemDescription HotReload.
+[2020.03.05-19.11.30:337][505]LogHotReload: Re-instancing ST_Item after hot-reload.
+[2020.03.05-19.11.30:955][505]LogBlueprintActionDatabase: Requesting refresh due to module change: InventorySystem_V1 (loaded)
+[2020.03.05-19.11.30:956][505]LogContentBrowser: Native class hierarchy updated for 'InventorySystem_V1' in 0.0008 seconds. Added 7 classes and 4 folders.
+[2020.03.05-19.11.30:963][505]Display: HotReload successful (5 functions remapped  3 scriptstructs remapped)
+[2020.03.05-19.11.31:158][505]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.03.05-19.11.31:160][505]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.05-19.11.31:172][505]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2742 classes and 668 folders.
+[2020.03.05-19.11.31:181][505]Display: HotReload took 43.3s.
+[2020.03.05-19.14.54:224][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.03.05-19.14.54:554][881]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_Auto50D93350B4B30EDDDCDC82CA5B4F11EAB.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.03.05-19.14.54:559][881]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.456
+[2020.03.05-19.14.54:560][881]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.456
+[2020.03.05-19.14.54:618][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/InventorySystem_HUD/Inventory_Window] ([1] browsable assets)...
+[2020.03.05-19.14.54:618][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/InventorySystem_HUD/Inventory_Window]
+[2020.03.05-19.14.54:832][881]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window_Auto5ABD1C7964D569048EB4E2297BEEAFD58.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Autosaves/Game/InventorySystem/InventorySystem_HUD/Inventory_Window_Auto5.uasset'
+[2020.03.05-19.14.54:873][881]LogFileHelpers: Auto-saving content packages took 0.310
+[2020.03.05-19.15.29:167][420]BlueprintLog: New page: Compile Inventory_Window
+[2020.03.05-19.15.29:239][420]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.03.05-19.15.30:905][510]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/Inventory_Window06D0428B41E68CD71EAF28B8BD09CF87.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/InventorySystem/InventorySystem_HUD/Inventory_Window.uasset'
+[2020.03.05-19.15.42:137][173]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.03.05-19.15.42:459][173]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap8BE5FE2344CBB63626275497044FEA6B.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.03.05-19.15.46:018][173]LogSavePackage: Moving '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Saved/FirstPersonExampleMap_BuiltDataAA95F4E447B2A68EB99DD2ACDF3BC6F6.tmp' to '../../../../../../Users/Felipe L/Desktop/Games/TankGame/InventorySystem_V1/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
