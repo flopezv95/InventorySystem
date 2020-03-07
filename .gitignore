@@ -53,10 +53,10 @@
 *.VC.opendb
 
 # Binary Files
-TikiTiki/Binaries/*
+InventorySystem_V1/Binaries/*
 
 # Builds
-TikiTiki/Build/*
+InventorySystem_V1/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 InventorySystem_V1/!Build/*/
