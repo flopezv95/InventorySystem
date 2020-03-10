@@ -8,6 +8,18 @@
 #include "IST_StoreObjectInteraction.h"
 #include "ST_StorageObject.generated.h"
 
+
+USTRUCT(BluePrintable)
+struct FItemsInStore
+{
+	GENERATED_BODY()
+
+	UPROPERTY(EditAnywhere)
+		int numOfTheItem;
+	UPROPERTY(EditAnywhere)
+		FItemProperties itemProperties;
+};
+
 UCLASS()
 class INVENTORYSYSTEM_V1_API AST_StorageObject : public AActor , public IIST_StoreObjectInteraction
 {
@@ -21,11 +33,20 @@ public:
 	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "BlueprintInteraction"))
 		void BlueprintInteractioneffect();
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<FItemsInStore> itemsInTheStore;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		TArray<FItemInTheInventory> itemsForCopy;
+private:
+
+	UPROPERTY()
+		UST_InventorySystemComponent * myInventorySystem;
+
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
 
 };

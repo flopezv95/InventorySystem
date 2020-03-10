@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include <Engine/World.h>
-#include "Components/ArrowComponent.h"
 #include "ST_StorageObject.h"
 
 // Sets default values
@@ -20,8 +19,25 @@ void AST_StorageObject::StoreOrTakeOutItem()
 // Called when the game starts or when spawned
 void AST_StorageObject::BeginPlay()
 {
+	myInventorySystem = FindComponentByClass<UST_InventorySystemComponent>();
+
+	for (int i = 0; i < itemsInTheStore.Num(); i++)
+	{
+		AST_Item * newItem = NewObject<AST_Item>(AST_Item::StaticClass());
+		newItem->itemProperties = itemsInTheStore[i].itemProperties;
+		FItemInTheInventory myNewItem;
+		myNewItem.item = AST_Item::CopyFromAnotherItem(newItem);
+		myNewItem.numOfTheItem = itemsInTheStore[i].numOfTheItem;
+		itemsForCopy.Add(myNewItem);
+	}
+	if (myInventorySystem)
+	{
+		for (int i = 0; i < itemsForCopy.Num(); i++)
+		{
+			myInventorySystem->itemsInTheInventory.Add(itemsForCopy[i]);
+		}
+	}
 	Super::BeginPlay();
-	
 }
 
 // Called every frame

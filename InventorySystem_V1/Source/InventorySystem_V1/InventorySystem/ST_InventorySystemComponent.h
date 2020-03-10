@@ -29,7 +29,7 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		FString name;
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(VisibleAnywhere)
 		TArray<FItemInTheInventory> itemsInTheInventory;
 	UPROPERTY(EditAnywhere,BlueprintReadWrite)
 		int maxSlotsInTheInventory;
