@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include <Engine/World.h>
 #include "ST_StorageObject.h"
+
 
 // Sets default values
 AST_StorageObject::AST_StorageObject()
@@ -19,6 +19,7 @@ void AST_StorageObject::StoreOrTakeOutItem()
 // Called when the game starts or when spawned
 void AST_StorageObject::BeginPlay()
 {
+	Super::BeginPlay();
 	myInventorySystem = FindComponentByClass<UST_InventorySystemComponent>();
 
 	for (int i = 0; i < itemsInTheStore.Num(); i++)
@@ -37,7 +38,6 @@ void AST_StorageObject::BeginPlay()
 			myInventorySystem->itemsInTheInventory.Add(itemsForCopy[i]);
 		}
 	}
-	Super::BeginPlay();
 }
 
 // Called every frame

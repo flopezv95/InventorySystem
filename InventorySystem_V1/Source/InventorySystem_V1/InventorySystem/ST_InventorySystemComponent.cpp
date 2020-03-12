@@ -36,12 +36,17 @@ AST_Item * UST_InventorySystemComponent::GetItemByIndex(int index)
 	return ret;
 }
 
+void UST_InventorySystemComponent::ShowTheInventory()
+{
+	ShowInventory();
+}
+
 // Called when the game starts
 void UST_InventorySystemComponent::BeginPlay()
 {
 	Super::BeginPlay();
 	numSlotsFree = maxSlotsInTheInventory;
-
+	originalPosition = position;
 	// ...
 	
 }
@@ -57,6 +62,7 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 		{
 			if (item->itemProperties.itemDescription.isStockable)
 			{
+				isInTheInventory = false;
 				for (int i= 0; i < itemsInTheInventory.Num(); i++)
 				{
 					if (itemsInTheInventory[i].item->itemProperties.specificType == item->itemProperties.specificType)
@@ -65,7 +71,6 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 						if (itemsInTheInventory[i].numOfTheItem < itemsInTheInventory[i].item->itemProperties.itemDescription.MaxStackSize)
 						{
 							isInTheInventory = true;
-							createNewItem = false;
 							itemsInTheInventory[i].numOfTheItem ++;
 						}
 						else
@@ -74,15 +79,8 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 							//Display message=Can't stock more of this specific item
 						}
 					}
-					else
-					{
-						if (!isInTheInventory)
-						{
-							createNewItem = true;
-						}
-					}
 				}
-				if ((numSlotsFree != 0 && createNewItem))
+				if ((numSlotsFree != 0 && !isInTheInventory))
 				{
 					FItemInTheInventory myNewItem;
 					myNewItem.item = AST_Item::CopyFromAnotherItem(item);
@@ -103,6 +101,9 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 		AST_StorageObject * storeObject = Cast<AST_StorageObject>(ActorToInteract);
 		if (storeObject)
 		{
+			position = positionWhenAStoreIsOpen;
+			isThePlayerOpenAnOnbjectStore = true;
+			ShowInventory();
 			storeObject->StoreOrTakeOutItem();
 		}
 	}

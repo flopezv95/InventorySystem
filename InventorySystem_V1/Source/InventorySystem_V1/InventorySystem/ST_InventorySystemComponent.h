@@ -37,14 +37,22 @@ public:
 		int numSlotsForRow;
 	UPROPERTY(VisibleAnywhere)
 		int numSlotsFree;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FVector2D anchorsMinimum;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FVector2D anchorsMaximum;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FVector2D alignment;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FVector2D position;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		FVector2D originalPosition;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		FVector2D positionWhenAStoreIsOpen;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		bool IsAStoreObject = false;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		bool isThePlayerOpenAnOnbjectStore = false;
 
 public:
 	// Sets default values for this component's properties
@@ -53,6 +61,10 @@ public:
 		int GetNumberOfTheItemByIndex(int index);
 	UFUNCTION(BlueprintCallable)
 		AST_Item* GetItemByIndex(int index);
+	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "ShowInventory"))
+		void ShowInventory();
+	UFUNCTION(BlueprintCallable)
+		void ShowTheInventory();
 
 protected:
 	// Called when the game starts
@@ -62,6 +74,4 @@ protected:
 
 private:
 	bool isInTheInventory = false;
-	bool createNewItem = true;
-		
 };
