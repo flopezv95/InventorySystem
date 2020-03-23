@@ -29,11 +29,14 @@ struct FItemDescription
 {
 	GENERATED_BODY()
 	//
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		FString itemName;
 	// 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		bool isStockable;
+	// 
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		bool isConsumable;
 	//
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		int MaxStackSize;
@@ -59,6 +62,9 @@ struct FItemProperties
 	//
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		class UObject* imageToShowInTheInventory;
+	//
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		UClass* itemClass;
 	//  
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		FItemDescription itemDescription;
@@ -76,6 +82,8 @@ public:
 	AST_Item();
 	UFUNCTION(BlueprintCallable)
 		virtual void Interact() override;
+	UFUNCTION(BlueprintCallable)
+		void ConsumableEffect();
 	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "BlueprintStockable"))
 		void BlueprintStockableffect();
 	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "BlueprintConsumable"))

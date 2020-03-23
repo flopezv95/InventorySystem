@@ -16,6 +16,22 @@ void AST_StorageObject::StoreOrTakeOutItem()
 	BlueprintInteractioneffect();
 }
 
+void AST_StorageObject::UpdateStore()
+{
+	if (StorageReference)
+	{
+		UST_InventorySystemComponent * inventorySystem = StorageReference->FindComponentByClass<UST_InventorySystemComponent>();
+		if (inventorySystem)
+		{
+			myInventorySystem->itemsInTheInventory.Empty();
+			for (int i = 0; i < inventorySystem->itemsInTheInventory.Num(); i++)
+			{
+				myInventorySystem->itemsInTheInventory.Add(inventorySystem->itemsInTheInventory[i]);
+			}
+		}
+	}
+}
+
 // Called when the game starts or when spawned
 void AST_StorageObject::BeginPlay()
 {

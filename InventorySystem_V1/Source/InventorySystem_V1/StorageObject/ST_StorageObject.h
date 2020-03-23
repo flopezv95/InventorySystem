@@ -32,6 +32,8 @@ public:
 		virtual void StoreOrTakeOutItem() override;
 	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "BlueprintInteraction"))
 		void BlueprintInteractioneffect();
+	UFUNCTION()
+		void UpdateStore();
 
 public:	
 	// Called every frame
@@ -40,6 +42,10 @@ public:
 		TArray<FItemsInStore> itemsInTheStore;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 		TArray<FItemInTheInventory> itemsForCopy;
+	UPROPERTY(EditDefaultsOnly)
+		bool wantToMakeThisStoreSameThatOtherInWorld = false;
+	UPROPERTY(EditAnywhere,meta = (EditCondition = "wantToMakeThisStoreSameThatOtherInWorld"))
+		AST_StorageObject * StorageReference;
 private:
 
 	UPROPERTY()

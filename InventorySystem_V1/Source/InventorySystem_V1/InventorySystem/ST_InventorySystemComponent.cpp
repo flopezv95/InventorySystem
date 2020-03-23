@@ -1,9 +1,13 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "ST_InventorySystemComponent.h"
-#include "../StorageObject/ST_StorageObject.h"
 #include "UObject/UObjectGlobals.h"
+#include "Engine/World.h"
+#include "GameFramework/Actor.h"
+#include "GameFramework/Character.h"
+#include "../StorageObject/ST_StorageObject.h"
 #include "Kismet/KismetSystemLibrary.h"
+#include "Kismet/GamePlayStatics.h"
 
 // Sets default values for this component's properties
 UST_InventorySystemComponent::UST_InventorySystemComponent()
@@ -39,6 +43,93 @@ AST_Item * UST_InventorySystemComponent::GetItemByIndex(int index)
 void UST_InventorySystemComponent::ShowTheInventory()
 {
 	ShowInventory();
+}
+
+void UST_InventorySystemComponent::UpdateTheInventory()
+{
+	UpdateInventory();
+}
+
+void UST_InventorySystemComponent::ItemIsConsumed(int index)
+{
+	if (itemsInTheInventory.Num() - 1 >= index)
+	{
+		if (itemsInTheInventory[index].numOfTheItem <= 0)
+		{
+			itemsInTheInventory.RemoveAt(index);
+			UpdateTheInventory();
+		}
+	}
+}
+
+void UST_InventorySystemComponent::ReduceTheNumOfAnItem(int index)
+{
+	if (itemsInTheInventory.Num() - 1 >= index)
+	{
+		itemsInTheInventory[index].numOfTheItem--;
+	}
+}
+
+void UST_InventorySystemComponent::ItemWasClicked(int index)
+{
+	if (itemsInTheInventory.Num() - 1 >= index)
+	{
+		if (!IsAStoreObject)
+		{
+			if (isThePlayerOpenAnOnbjectStore)
+			{
+				ReduceTheNumOfAnItem(index);
+				UpdateTheInventory();
+				AST_StorageObject * storeObject = Cast<AST_StorageObject>(storeObjectToInteract);
+				if (storeObject)
+				{
+					UST_InventorySystemComponent * inventoryOfTheStoreObject = storeObject->FindComponentByClass<UST_InventorySystemComponent>();
+					if (inventoryOfTheStoreObject)
+					{
+						inventoryOfTheStoreObject->Interact(itemsInTheInventory[index].item);
+						inventoryOfTheStoreObject->UpdateTheInventory();
+					}
+				}
+				ItemIsConsumed(index);
+			}
+			else
+			{
+				if (itemsInTheInventory[index].item->itemProperties.itemDescription.isConsumable)
+				{
+					FVector Start = FVector(0.0f, 0.0f, 0.0f);
+					FRotator Rotator = FRotator();
+					FActorSpawnParameters NewProjectileSpawnInfo;
+					NewProjectileSpawnInfo.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
+					AST_Item* itemToConsume = GetWorld()->SpawnActor<AST_Item>(itemsInTheInventory[index].item->itemProperties.itemClass, Start, Rotator, NewProjectileSpawnInfo);
+					if (itemToConsume)
+					{
+
+						itemToConsume->ConsumableEffect();
+						ReduceTheNumOfAnItem(index);
+						UpdateTheInventory();
+						ItemIsConsumed(index);
+					}
+				}
+			}
+		}
+		else
+		{
+			ACharacter * firtsPlayer = UGameplayStatics::GetPlayerCharacter(GetWorld(),0);
+			if (firtsPlayer)
+			{
+				UST_InventorySystemComponent * inventoryOfThePlayer = firtsPlayer->FindComponentByClass<UST_InventorySystemComponent>();
+				if (inventoryOfThePlayer)
+				{
+					inventoryOfThePlayer->Interact(itemsInTheInventory[index].item);
+					ReduceTheNumOfAnItem(index);
+					UpdateTheInventory();
+					ItemIsConsumed(index);
+					inventoryOfThePlayer->UpdateTheInventory();
+				}
+
+			}
+		}
+	}
 }
 
 // Called when the game starts
@@ -101,8 +192,13 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 		AST_StorageObject * storeObject = Cast<AST_StorageObject>(ActorToInteract);
 		if (storeObject)
 		{
+			storeObjectToInteract = ActorToInteract;
 			position = positionWhenAStoreIsOpen;
 			isThePlayerOpenAnOnbjectStore = true;
+			if (storeObject->wantToMakeThisStoreSameThatOtherInWorld)
+			{
+				storeObject->UpdateStore();
+			}
 			ShowInventory();
 			storeObject->StoreOrTakeOutItem();
 		}

@@ -20,7 +20,9 @@ AST_Item* AST_Item::CopyFromAnotherItem(AST_Item * itemToCopy)
 	itemToRet->itemProperties.itemDescription.Description = itemToCopy->itemProperties.itemDescription.Description;
 	itemToRet->itemProperties.itemDescription.Durability = itemToCopy->itemProperties.itemDescription.Durability;
 	itemToRet->itemProperties.itemDescription.isStockable = itemToCopy->itemProperties.itemDescription.isStockable;
+	itemToRet->itemProperties.itemDescription.isConsumable = itemToCopy->itemProperties.itemDescription.isConsumable;
 	itemToRet->itemProperties.itemDescription.itemName = itemToCopy->itemProperties.itemDescription.itemName;
+	itemToRet->itemProperties.itemClass = itemToCopy->itemProperties.itemClass;
 	itemToRet->itemProperties.itemDescription.MaxStackSize = itemToCopy->itemProperties.itemDescription.MaxStackSize;
 	return itemToRet;
 }
@@ -51,9 +53,10 @@ void AST_Item::Interact()
 			BlueprintTemporalffect();
 		}
 	}
-	else
-	{
-		BlueprintConsumableffect();
-	}
+}
+
+void AST_Item::ConsumableEffect()
+{
+	BlueprintConsumableffect();
 }
 

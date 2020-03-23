@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "../Item/ST_Item.h"
@@ -53,6 +52,8 @@ public:
 		bool IsAStoreObject = false;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 		bool isThePlayerOpenAnOnbjectStore = false;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		AActor * storeObjectToInteract;
 
 public:
 	// Sets default values for this component's properties
@@ -63,8 +64,18 @@ public:
 		AST_Item* GetItemByIndex(int index);
 	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "ShowInventory"))
 		void ShowInventory();
+	UFUNCTION(BlueprintImplementableEvent, meta = (DisplayName = "UpdateInventory"))
+		void UpdateInventory();
 	UFUNCTION(BlueprintCallable)
 		void ShowTheInventory();
+	UFUNCTION(BlueprintCallable)
+		void UpdateTheInventory();
+	UFUNCTION(BlueprintCallable)
+		void ItemIsConsumed(int index);
+	UFUNCTION(BlueprintCallable)
+		void ReduceTheNumOfAnItem(int index);
+	UFUNCTION(BlueprintCallable)
+		void ItemWasClicked(int index);
 
 protected:
 	// Called when the game starts
