@@ -76,12 +76,12 @@ public:
 		void ReduceTheNumOfAnItem(int index);
 	UFUNCTION(BlueprintCallable)
 		void ItemWasClicked(int index);
+	UFUNCTION(BlueprintCallable)
+		void Interact(AActor* ActorToInteract = nullptr);
 
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
-	UFUNCTION(BlueprintCallable)
-		void Interact(AActor* ActorToInteract = nullptr);
 
 private:
 	bool isInTheInventory = false;

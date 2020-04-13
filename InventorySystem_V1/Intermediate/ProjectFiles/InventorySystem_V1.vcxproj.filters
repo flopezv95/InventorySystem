@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\InventorySystem_V1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E14F3BA8-5082-401C-A8AB-B93187A846DE}</UniqueIdentifier>
+      <UniqueIdentifier>{94C1E0FC-E104-47A5-8B28-3794E6DD3C72}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\InventorySystem_V1.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7D4C4EE1-1560-436C-9FFA-9E02B9A52633}</UniqueIdentifier>
+      <UniqueIdentifier>{6B6A25AF-642B-42DE-8AA8-6B09A19F33E0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\InventorySystem_V1">
-      <UniqueIdentifier>{0DFB1017-331D-482A-99E7-545845821511}</UniqueIdentifier>
+      <UniqueIdentifier>{006F1045-AB05-4D8F-B88A-BE472AAEF73D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\InventorySystem_V1\InventorySystem_V1.Build.cs">
       <Filter>Source\InventorySystem_V1</Filter>
@@ -65,8 +65,26 @@
     <ClInclude Include="..\..\Source\InventorySystem_V1\InventorySystem_V1Projectile.h">
       <Filter>Source\InventorySystem_V1</Filter>
     </ClInclude>
+    <Filter Include="Source\InventorySystem_V1\CraftingTools">
+      <UniqueIdentifier>{ECA967B4-1F83-4BA0-9A00-ACD6D5A6C654}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem_V1\CraftingTools\ST_CraftingToolsComponent.cpp">
+      <Filter>Source\InventorySystem_V1\CraftingTools</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\CraftingTools\ST_CraftingToolsComponent.h">
+      <Filter>Source\InventorySystem_V1\CraftingTools</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem_V1\Interact">
+      <UniqueIdentifier>{436A8E9D-1EC6-46F4-AD06-90C98A3AF0E3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem_V1\Interact\ST_InteractComponent.cpp">
+      <Filter>Source\InventorySystem_V1\Interact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\Interact\ST_InteractComponent.h">
+      <Filter>Source\InventorySystem_V1\Interact</Filter>
+    </ClInclude>
     <Filter Include="Source\InventorySystem_V1\InventorySystem">
-      <UniqueIdentifier>{A01E3A52-0109-469D-8803-47F4A79E2266}</UniqueIdentifier>
+      <UniqueIdentifier>{E4121FEE-4E76-4245-B4FE-CB73892F376C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\InventorySystem_V1\InventorySystem\ST_InventorySystemComponent.cpp">
       <Filter>Source\InventorySystem_V1\InventorySystem</Filter>
@@ -75,7 +93,7 @@
       <Filter>Source\InventorySystem_V1\InventorySystem</Filter>
     </ClInclude>
     <Filter Include="Source\InventorySystem_V1\Item">
-      <UniqueIdentifier>{0619836D-17DA-4E30-B086-C034620FB2AA}</UniqueIdentifier>
+      <UniqueIdentifier>{D93092B4-2E67-4DD3-92B3-21B688157DF2}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\IST_ItemInteractuable.h">
       <Filter>Source\InventorySystem_V1\Item</Filter>
@@ -86,8 +104,14 @@
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\ST_Item.h">
       <Filter>Source\InventorySystem_V1\Item</Filter>
     </ClInclude>
+    <Filter Include="Source\InventorySystem_V1\PushableObject">
+      <UniqueIdentifier>{8A0000BA-9A86-4547-B444-41A02038B13F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\IST_ObjectIsPushable.h">
+      <Filter>Source\InventorySystem_V1\PushableObject</Filter>
+    </ClInclude>
     <Filter Include="Source\InventorySystem_V1\StorageObject">
-      <UniqueIdentifier>{541DC5A0-0833-47B5-9393-F4356F33D735}</UniqueIdentifier>
+      <UniqueIdentifier>{C3F0FCF6-8D02-4A60-A9BB-45B4CDA5E10C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\InventorySystem_V1\StorageObject\IST_StoreObjectInteraction.h">
       <Filter>Source\InventorySystem_V1\StorageObject</Filter>
@@ -98,5 +122,30 @@
     <ClInclude Include="..\..\Source\InventorySystem_V1\StorageObject\ST_StorageObject.h">
       <Filter>Source\InventorySystem_V1\StorageObject</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\ST_PushableActor.h">
+      <Filter>Source\InventorySystem_V1\PushableObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabAndThrowComponent.h">
+      <Filter>Source\InventorySystem_V1\PushableObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\Item\ST_ThrowableItem.h">
+      <Filter>Source\InventorySystem_V1\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InventorySystem_V1\Item\IST_ItemThrowable.h">
+      <Filter>Source\InventorySystem_V1\Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_PushableActor.cpp">
+      <Filter>Source\InventorySystem_V1\PushableObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabAndThrowComponent.cpp">
+      <Filter>Source\InventorySystem_V1\PushableObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InventorySystem_V1\Item\ST_ThrowableItem.cpp">
+      <Filter>Source\InventorySystem_V1\Item</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

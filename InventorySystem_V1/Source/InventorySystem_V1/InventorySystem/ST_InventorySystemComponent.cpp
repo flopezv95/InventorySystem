@@ -6,6 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "GameFramework/Character.h"
 #include "../StorageObject/ST_StorageObject.h"
+#include "../CraftingTools/ST_CraftingToolsComponent.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Kismet/GamePlayStatics.h"
 
@@ -144,11 +145,15 @@ void UST_InventorySystemComponent::BeginPlay()
 
 void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 {
-	TSubclassOf<UIST_ItemInteractuable> interfaceToPick;
-	TSubclassOf<UIST_StoreObjectInteraction> storeInterface;
+
 	if (UKismetSystemLibrary::DoesImplementInterface(ActorToInteract, UIST_ItemInteractuable::StaticClass()))
 	{
 		AST_Item * item = Cast<AST_Item>(ActorToInteract);
+		UST_CraftingToolsComponent * crafToolsSystem = GetOwner()->FindComponentByClass<UST_CraftingToolsComponent>();
+		if (crafToolsSystem)
+		{
+			crafToolsSystem->UpdateNumOfRawMaterials(item->itemProperties.itemClass);
+		}
 		if (item)
 		{
 			if (item->itemProperties.itemDescription.isStockable)
@@ -156,7 +161,7 @@ void UST_InventorySystemComponent::Interact(AActor * ActorToInteract)
 				isInTheInventory = false;
 				for (int i= 0; i < itemsInTheInventory.Num(); i++)
 				{
-					if (itemsInTheInventory[i].item->itemProperties.specificType == item->itemProperties.specificType)
+					if (itemsInTheInventory[i].item->itemProperties.specificType == item->itemProperties.specificType && !item->itemProperties.itemDescription.isStockOnlyOnePerSlot)
 					{
 						
 						if (itemsInTheInventory[i].numOfTheItem < itemsInTheInventory[i].item->itemProperties.itemDescription.MaxStackSize)

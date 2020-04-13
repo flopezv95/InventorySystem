@@ -7,10 +7,10 @@
 #include "IST_ItemInteractuable.h"
 #include "ST_Item.generated.h"
 
+
 UENUM(BlueprintType)
 enum class EPickableType :uint8
 {
-	
 	E_PICKABLE UMETA(DisplayName = "PICKABLE"),
 	E_NOTPICKABLE UMETA(DisplayName = "NOTPICKABLE"),
 };
@@ -37,8 +37,11 @@ struct FItemDescription
 	// 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		bool isConsumable;
-	//
+	// 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		bool isStockOnlyOnePerSlot;
+	//
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, meta = (EditCondition = "!isStockOnlyOnePerSlot"))
 		int MaxStackSize;
 	//  
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)

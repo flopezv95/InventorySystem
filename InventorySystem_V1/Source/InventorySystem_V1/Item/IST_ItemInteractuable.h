@@ -16,7 +16,7 @@ class INVENTORYSYSTEM_V1_API IIST_ItemInteractuable
 {
 	GENERATED_BODY()
 
-protected:
+public:
 	//
 	UFUNCTION()
 		virtual void Interact() = 0;
