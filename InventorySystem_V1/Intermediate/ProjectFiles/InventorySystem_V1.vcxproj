@@ -75,7 +75,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{918E5DDE-A464-4520-8FB0-3DAED3F0DB90}</ProjectGuid>
+    <ProjectGuid>{40E07D6C-12C4-4C88-927F-CF1AADA90029}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>InventorySystem_V1</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>
@@ -390,17 +390,17 @@
     <ClCompile Include="..\..\Source\InventorySystem_V1\InventorySystem\ST_InventorySystemComponent.cpp" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\InventorySystem\ST_InventorySystemComponent.h" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\IST_ItemInteractuable.h" />
-    <ClCompile Include="..\..\Source\InventorySystem_V1\Item\ST_Item.cpp" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\IST_ItemThrowable.h" />
+    <ClCompile Include="..\..\Source\InventorySystem_V1\Item\ST_Item.cpp" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\ST_Item.h" />
+    <ClCompile Include="..\..\Source\InventorySystem_V1\Item\ST_ThrowableItem.cpp" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\Item\ST_ThrowableItem.h" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\IST_ObjectIsPushable.h" />
-    <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabAndThrowComponent.h" />
+    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabReleaseAndThrowComponent.cpp" />
+    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_PushableActor.cpp" />
+    <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabReleaseAndThrowComponent.h" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\PushableObject\ST_PushableActor.h" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\StorageObject\IST_StoreObjectInteraction.h" />
-    <ClCompile Include="..\..\Source\InventorySystem_V1\Item\ST_ThrowableItem.cpp" />
-    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_GrabAndThrowComponent.cpp" />
-    <ClCompile Include="..\..\Source\InventorySystem_V1\PushableObject\ST_PushableActor.cpp" />
     <ClCompile Include="..\..\Source\InventorySystem_V1\StorageObject\ST_StorageObject.cpp" />
     <ClInclude Include="..\..\Source\InventorySystem_V1\StorageObject\ST_StorageObject.h" />
   </ItemGroup>

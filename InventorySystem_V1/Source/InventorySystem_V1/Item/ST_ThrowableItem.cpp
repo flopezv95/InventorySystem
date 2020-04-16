@@ -9,6 +9,8 @@ AST_ThrowableItem::AST_ThrowableItem()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	projectileMovementComponent = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement Comp"));
+
 }
 
 void AST_ThrowableItem::Grab()

@@ -6,7 +6,7 @@
 #include "../StorageObject/ST_StorageObject.h"
 #include "../PushableObject/ST_PushableActor.h"
 #include "Kismet/KismetSystemLibrary.h"
-#include "../PushableObject/ST_GrabAndThrowComponent.h"
+#include "../PushableObject/ST_GrabReleaseAndThrowComponent.h"
 
 // Sets default values for this component's properties
 UST_InteractComponent::UST_InteractComponent()
@@ -43,7 +43,7 @@ void UST_InteractComponent::Interact(AActor * ActorToInteract, bool IsInputRelea
 	}
 	else if (UKismetSystemLibrary::DoesImplementInterface(ActorToInteract, UIST_ItemThrowable::StaticClass()) && !IsInputRelease)
 	{
-		UST_GrabAndThrowComponent * grabAndThrownComponent = GetOwner()->FindComponentByClass<UST_GrabAndThrowComponent>();
+		UST_GrabReleaseAndThrowComponent * grabAndThrownComponent = GetOwner()->FindComponentByClass<UST_GrabReleaseAndThrowComponent>();
 		if (grabAndThrownComponent)
 		{
 			AST_ThrowableItem * grabObject = Cast<AST_ThrowableItem>(ActorToInteract);
